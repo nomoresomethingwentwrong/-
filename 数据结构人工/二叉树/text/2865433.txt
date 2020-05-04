@@ -1,0 +1,1 @@
+Node with zero or one children[edit] The process of deleting an internal node in a binary tree Suppose that the node to delete is node A. If A has no children, deletion is accomplished by setting the child of A's parent to null. If A has one child, set the parent of A's child to A's parent and set the child of A's parent to A's child.
