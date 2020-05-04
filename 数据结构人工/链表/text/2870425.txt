@@ -1,0 +1,1 @@
+尾插法建表   void CreateListR(ListNode *&L,ElemType a[],int n) { LinkNode *s,*r; L=(LinkNode *)malloc(sizeof(LinkNode)); //创建头结点 r=L; //r始终指向尾结点，初始时指向头结点 for(int i=0;i<n;i++) //循环建立数据结点 { s=(LinkNode *)malloc(sizeof(LinkNode)); s→data=a[i]; //创建数据结点s r→next=s; r=s; } r→next=NULL; //尾结点的next域置为空 } 链表的节点顺序与逻辑次序正好相同。  

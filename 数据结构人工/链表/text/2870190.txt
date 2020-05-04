@@ -1,0 +1,1 @@
+例如，定义LinkList L,则L为单链表的头指针，若定义LNode *p ,则p为指向单链表中某个结点的指针，用*p代表该结点。 插入   基本算法： //插入 Status ListInsert(LinkList &L,int i,ElemType e) { //在带头结点的单链表L中第i个位置插入值为e的新结点 p=L;j=0; while(p&&(j<i-1)) { p=p->next; //查找第i-1个结点，p指向该结点 ++j; } if(!p||j>i-1) return ERROR; s=new LNode; //生成一个新结点 s->data=e; //将结点*s的数据域置为e s->next=p->next; //先接尾部 p->next=s; //再接头部 }
