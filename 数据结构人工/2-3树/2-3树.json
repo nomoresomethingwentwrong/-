@@ -1,0 +1,1762 @@
+{
+    "code":200,
+    "msg":"成功",
+    "data":[
+        {
+            "assembleId":2863030,
+            "assembleContent":"<p>2-节点有两个孩子，必含一个 数据项，其查找关键字大于左孩子的查找关键字，而小于右孩子的查找关键字。  <br></p>   ",
+            "assembleText":"2-节点有两个孩子，必含一个 数据项，其查找关键字大于左孩子的查找关键字，而小于右孩子的查找关键字。  ",
+            "assembleScratchTime":"2019-03-18 15:55:28",
+            "facetId":559809,
+            "sourceId":12,
+            "domainId":413,
+            "url":"https://www.sogou.com/web?query=2-3%E6%A0%91&ie=utf8&_ast=1552895488&_asf=null&w=01029901&cid=&cid=&s_from=result_up&sut=2577&sst0=1552895503986&lkt=2%2C1552895502302%2C1552895502605&sugsuv=00FA17846F14E20E5AFF96C7ADF09178&sugtime=1552895503986",
+            "type":"text"
+        },
+        {
+            "assembleId":2863031,
+            "assembleContent":"<p>3-节点有三个孩子 ，必含两个数据项，其查找关键字S和L满足下列关系：S大于左孩子的查找关键字，而小于中孩子的查找关键字；L大于中孩子的查找关键字，而小于右孩子的查找关键字。  <br></p>   ",
+            "assembleText":"3-节点有三个孩子 ，必含两个数据项，其查找关键字S和L满足下列关系：S大于左孩子的查找关键字，而小于中孩子的查找关键字；L大于中孩子的查找关键字，而小于右孩子的查找关键字。  ",
+            "assembleScratchTime":"2019-03-18 15:55:50",
+            "facetId":559809,
+            "sourceId":12,
+            "domainId":413,
+            "url":"https://www.sogou.com/web?query=2-3%E6%A0%91&ie=utf8&_ast=1552895488&_asf=null&w=01029901&cid=&cid=&s_from=result_up&sut=2577&sst0=1552895503986&lkt=2%2C1552895502302%2C1552895502605&sugsuv=00FA17846F14E20E5AFF96C7ADF09178&sugtime=1552895503986",
+            "type":"text"
+        },
+        {
+            "assembleId":2866034,
+            "assembleContent":"<ul><li><strong>一个 2 节点包含一个元素和两个孩子(或没有孩子)</strong>，且与二叉排序树类似，左子树包含的元素小于该元素，右子树包含的元素大于该元素。不过，与二叉排序树不同的是，这个 2 节点要么没有孩子，要么就有两个，不能只有一个孩子</li></ul> ",
+            "assembleText":"一个 2 节点包含一个元素和两个孩子(或没有孩子)，且与二叉排序树类似，左子树包含的元素小于该元素，右子树包含的元素大于该元素。不过，与二叉排序树不同的是，这个 2 节点要么没有孩子，要么就有两个，不能只有一个孩子",
+            "assembleScratchTime":"2019-03-24 23:21:52",
+            "facetId":559809,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.jianshu.com/p/d13676299db3",
+            "type":"text"
+        },
+        {
+            "assembleId":2863038,
+            "assembleContent":"<p><strong>2-结点</strong>：含有一个键(及值)和两条链接，左链接指向的2-3树中的键都小于该结点，右链接指向的2-3树中的键都大于该结点。  <br></p> ",
+            "assembleText":"2-结点：含有一个键(及值)和两条链接，左链接指向的2-3树中的键都小于该结点，右链接指向的2-3树中的键都大于该结点。  ",
+            "assembleScratchTime":"2019-03-18 16:00:16",
+            "facetId":559809,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/fei33423/article/details/79132930",
+            "type":"text"
+        },
+        {
+            "assembleId":2863039,
+            "assembleContent":"<p><strong>3-结点</strong>：含有两个键(及值)<a href="https://www.baidu.com/s?wd=%E5%92%8C%E4%B8%89&tn=24004469_oem_dg&rsv_dl=gh_pl_sl_csd" target="_blank">和三</a>条链接，左链接指向的2-3树中的键都小于该结点，中链接指向的2-3树中的键都位于该结点的两个键之间，右链接指向的2-3树中的键都大于该结点。  <br></p> ",
+            "assembleText":"3-结点：含有两个键(及值)和三条链接，左链接指向的2-3树中的键都小于该结点，中链接指向的2-3树中的键都位于该结点的两个键之间，右链接指向的2-3树中的键都大于该结点。  ",
+            "assembleScratchTime":"2019-03-18 16:00:26",
+            "facetId":559809,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/fei33423/article/details/79132930",
+            "type":"text"
+        },
+        {
+            "assembleId":2863044,
+            "assembleContent":"<p>一颗完美平衡的2-3查找树中的所有空链接到根结点的距离都是相同的。  <br></p> ",
+            "assembleText":"一颗完美平衡的2-3查找树中的所有空链接到根结点的距离都是相同的。  ",
+            "assembleScratchTime":"2019-03-18 16:02:29",
+            "facetId":559809,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/fei33423/article/details/79132930",
+            "type":"text"
+        },
+        {
+            "assembleId":2863068,
+            "assembleContent":"<p>对于2节点，该节点保存一个key及对应value，以及两个指向左右节点的节点，左节点也是一个2-3节点，所有的值都比key有效，有节点也是一个2-3节点，所有的值比key要大。  <br></p> ",
+            "assembleText":"对于2节点，该节点保存一个key及对应value，以及两个指向左右节点的节点，左节点也是一个2-3节点，所有的值都比key有效，有节点也是一个2-3节点，所有的值比key要大。  ",
+            "assembleScratchTime":"2019-03-18 16:09:55",
+            "facetId":559809,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863069,
+            "assembleContent":"<p>对于3节点，该节点保存两个key及对应value，以及三个指向左中右的节点。左节点也是一个2-3节点，所有的值均比两个key中的最小的key还要小；中间节点也是一个2-3节点，中间节点的key值在两个跟节点key值之间；右节点也是一个2-3节点，节点的所有key值比两个key中的最大的key还要大。  <br></p> ",
+            "assembleText":"对于3节点，该节点保存两个key及对应value，以及三个指向左中右的节点。左节点也是一个2-3节点，所有的值均比两个key中的最小的key还要小；中间节点也是一个2-3节点，中间节点的key值在两个跟节点key值之间；右节点也是一个2-3节点，节点的所有key值比两个key中的最大的key还要大。  ",
+            "assembleScratchTime":"2019-03-18 16:10:06",
+            "facetId":559809,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863070,
+            "assembleContent":"<p>如果中序遍历2-3查找树，就可以得到排好序的序列。在一个完全平衡的2-3查找树中，根节点到每一个为空节点的距离都相同。  <br></p> ",
+            "assembleText":"如果中序遍历2-3查找树，就可以得到排好序的序列。在一个完全平衡的2-3查找树中，根节点到每一个为空节点的距离都相同。  ",
+            "assembleScratchTime":"2019-03-18 16:10:19",
+            "facetId":559809,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863080,
+            "assembleContent":"<p><strong>性质</strong></p><p>这些本地操作保持了2-3树的平衡。对于4-node节点变形为2-3节点，变形前后树的高度没有发生变化。只有当跟节点是4-node节点，变形后树的高度才加一。如下图所示：</p><p><a href="https://images0.cnblogs.com/blog/94031/201403/252249072955050.png"><img title="global property of 2-3 tree" border="0" alt="global property of 2-3 tree" src="https://images0.cnblogs.com/blog/94031/201403/252249077015992.png" width="795" height="332" style="max-width:50%;"></a></p> ",
+            "assembleText":"性质 这些本地操作保持了2-3树的平衡。对于4-node节点变形为2-3节点，变形前后树的高度没有发生变化。只有当跟节点是4-node节点，变形后树的高度才加一。如下图所示：",
+            "assembleScratchTime":"2019-03-18 16:12:55",
+            "facetId":559809,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863082,
+            "assembleContent":"<ul><li>在最坏的情况下，也就是所有的节点都是2-node节点，查找效率为lgN</li></ul> ",
+            "assembleText":"在最坏的情况下，也就是所有的节点都是2-node节点，查找效率为lgN",
+            "assembleScratchTime":"2019-03-18 16:13:25",
+            "facetId":559809,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863083,
+            "assembleContent":"<ul><li>在最好的情况下，所有的节点都是3-node节点，查找效率为log<sub>3</sub>N约等于0.631lgN</li></ul> ",
+            "assembleText":"在最好的情况下，所有的节点都是3-node节点，查找效率为log3N约等于0.631lgN",
+            "assembleScratchTime":"2019-03-18 16:13:32",
+            "facetId":559809,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863085,
+            "assembleContent":"<div>距离来说，对于1百万个节点的2-3树，树的高度为12-20之间，对于10亿个节点的2-3树，树的高度为18-30之间。  <br></div> ",
+            "assembleText":"距离来说，对于1百万个节点的2-3树，树的高度为12-20之间，对于10亿个节点的2-3树，树的高度为18-30之间。  ",
+            "assembleScratchTime":"2019-03-18 16:13:46",
+            "facetId":559809,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863086,
+            "assembleContent":"<p>对于插入来说，只需要常数次操作即可完成，因为他只需要修改与该节点关联的节点即可，不需要检查其他节点，所以效率和查找类似。下面是2-3查找树的效率：</p><p><a href="https://images0.cnblogs.com/blog/94031/201403/252249087649035.png"><img title="analysis of 2-3 tree" border="0" alt="analysis of 2-3 tree" src="https://images0.cnblogs.com/blog/94031/201403/252249104513019.png" width="997" height="443" style="max-width:100%;"></a></p> ",
+            "assembleText":"对于插入来说，只需要常数次操作即可完成，因为他只需要修改与该节点关联的节点即可，不需要检查其他节点，所以效率和查找类似。下面是2-3查找树的效率：",
+            "assembleScratchTime":"2019-03-18 16:14:04",
+            "facetId":559809,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863089,
+            "assembleContent":"<ol><li>对于每一个结点 他有1 或者2 个关键码</li><li>那么什么时候关键码为 1 个呢？ 或者说关键码为 1 个的时候有什么性质呢</li><li>当有一个关键码的时候 这个节点的子树会有两个</li><li>当这个节点的关键码有 2 个的时候 这个节点的子树是3个</li><li>他的所有叶子点都在树的同一层</li></ol> ",
+            "assembleText":"对于每一个结点 他有1 或者2 个关键码 那么什么时候关键码为 1 个呢？ 或者说关键码为 1 个的时候有什么性质呢 当有一个关键码的时候 这个节点的子树会有两个 当这个节点的关键码有 2 个的时候 这个节点的子树是3个 他的所有叶子点都在树的同一层",
+            "assembleScratchTime":"2019-03-18 16:15:32",
+            "facetId":559809,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863090,
+            "assembleContent":"<p>任意节点的左子树的值小于这个节点第一个关键码的值  <br></p> ",
+            "assembleText":"任意节点的左子树的值小于这个节点第一个关键码的值  ",
+            "assembleScratchTime":"2019-03-18 16:16:06",
+            "facetId":559809,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863091,
+            "assembleContent":"<p>中间子树的值均大于第一个关键码  <br></p> ",
+            "assembleText":"中间子树的值均大于第一个关键码  ",
+            "assembleScratchTime":"2019-03-18 16:16:26",
+            "facetId":559809,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/qq_35794278/article/details/80316402",
+            "type":"text"
+        },
+        {
+            "assembleId":2863092,
+            "assembleContent":"<p>如果有右子树的说明有两个关键码，则中间子树的所有节点的值小于第二个关键码的值  <br></p> ",
+            "assembleText":"如果有右子树的说明有两个关键码，则中间子树的所有节点的值小于第二个关键码的值  ",
+            "assembleScratchTime":"2019-03-18 16:16:45",
+            "facetId":559809,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/qq_35794278/article/details/80316402",
+            "type":"text"
+        },
+        {
+            "assembleId":2863093,
+            "assembleContent":"<p>右子树的值均大于第二个关键码的值  <br></p> ",
+            "assembleText":"右子树的值均大于第二个关键码的值  ",
+            "assembleScratchTime":"2019-03-18 16:17:00",
+            "facetId":559809,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/qq_35794278/article/details/80316402",
+            "type":"text"
+        },
+        {
+            "assembleId":2863094,
+            "assembleContent":"<p>进行删除和添加操作的时候 要进行特殊处理  <br></p> ",
+            "assembleText":"进行删除和添加操作的时候 要进行特殊处理  ",
+            "assembleScratchTime":"2019-03-18 16:17:10",
+            "facetId":559809,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/qq_35794278/article/details/80316402",
+            "type":"text"
+        },
+        {
+            "assembleId":2863166,
+            "assembleContent":"<p>2–3树和<a href="https://zh.wikipedia.org/wiki/AA%E6%A0%91" title="AA树">AA树</a>是<a href="https://zh.wikipedia.org/wiki/%E7%AD%89%E8%B7%9D%E5%90%8C%E6%9E%84" title="等距同构">等距同构</a>的，意味着它们是同一种数据结构。换句话说，对于每个2–3树，都至少有1个AA树和它的元素排列是相同的。2–3树是平衡树，意味着右边，左边，中间的子树的元素数量都是相同或接近的。  <br></p>  ",
+            "assembleText":"2–3树和AA树是等距同构的，意味着它们是同一种数据结构。换句话说，对于每个2–3树，都至少有1个AA树和它的元素排列是相同的。2–3树是平衡树，意味着右边，左边，中间的子树的元素数量都是相同或接近的。  ",
+            "assembleScratchTime":"2019-03-18 18:02:18",
+            "facetId":559809,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2863188,
+            "assembleContent":"<table cellspacing="3"><tbody><tr><th colspan="2">2-3树</th></tr><tr><th scope="row"><a href="https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%88%97%E8%A1%A8" title="数据结构列表">类型</a></th><td><a href="https://zh.wikipedia.org/wiki/%E6%A0%91_(%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)" title="树 (数据结构)">树</a></td></tr><tr><th scope="row">发明时间</th><td>1970</td></tr><tr><th scope="row">发明者</th><td><a href="https://zh.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E9%9C%8D%E6%99%AE%E5%85%8B%E6%B4%9B%E5%A4%AB%E7%89%B9" title="约翰·霍普克洛夫特">约翰·霍普克洛夫特</a></td></tr><tr><th colspan="2"><a href="https://zh.wikipedia.org/wiki/%E5%A4%A7O%E7%AC%A6%E5%8F%B7" title="大O符号">大O符号</a>的<a href="https://zh.wikipedia.org/wiki/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6" title="时间复杂度">时间复杂度</a></th></tr><tr><td colspan="2"><table cellspacing="3"><tbody><tr><th scope="row">算法</th><td></td><td><b>平均</b></td><td><b>最差</b></td></tr><tr><th scope="row">空间</th><td></td><td>O(<i>n</i>)</td><td>O(<i>n</i>)</td></tr><tr><th scope="row">搜索</th><td></td><td>O(log <i>n</i>)</td><td>O(log <i>n</i>)</td></tr><tr><th scope="row">插入</th><td></td><td>O(log <i>n</i>)</td><td>O(log <i>n</i>)</td></tr><tr><th scope="row">删除</th><td></td><td>O(log <i>n</i>)</td><td>O(log <i>n</i>)</td></tr></tbody></table></td></tr></tbody></table> ",
+            "assembleText":"2-3树 类型 树 发明时间 1970 发明者 约翰·霍普克洛夫特 大O符号的时间复杂度 算法 平均 最差 空间 O(n) O(n) 搜索 O(log n) O(log n) 插入 O(log n) O(log n) 删除 O(log n) O(log n)",
+            "assembleScratchTime":"2019-03-18 18:17:38",
+            "facetId":559809,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2866010,
+            "assembleContent":"<h2>2-3树的绝对平衡性</h2><p>满足二分搜索树的基本性质</p><div><div><div></div><div><img src="https://upload-images.jianshu.io/upload_images/14371562-0caa24a140ccd018.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div></div><div>2-3树.png</div></div><div><div><div></div><div><img src="https://upload-images.jianshu.io/upload_images/14371562-d06d3fe0227e10f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div></div><div>2-3树是一颗绝对平衡的树.png</div></div>  ",
+            "assembleText":"2-3树的绝对平衡性 满足二分搜索树的基本性质 2-3树.png 2-3树是一颗绝对平衡的树.png",
+            "assembleScratchTime":"2019-03-24 23:12:05",
+            "facetId":559809,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2866011,
+            "assembleContent":"<p>2-3树特性：</p><ul><li>新添加节点永远不会讲节点添加到一个空的位置</li></ul> ",
+            "assembleText":"2-3树特性： 新添加节点永远不会讲节点添加到一个空的位置",
+            "assembleScratchTime":"2019-03-24 23:12:16",
+            "facetId":559809,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2866024,
+            "assembleContent":"<blockquote><div><div><div><br><img src="https://upload-images.jianshu.io/upload_images/11177530-0f7516ff464c4e9e.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/647/format/webp"></div></div><div>2-3_1.jpeg</div></div></blockquote><blockquote><p>一棵完美平衡的2-3查找树中的所有空链接到根节点的距离都应该是相同的.</p></blockquote> ",
+            "assembleText":"2-3_1.jpeg 一棵完美平衡的2-3查找树中的所有空链接到根节点的距离都应该是相同的.",
+            "assembleScratchTime":"2019-03-24 23:15:34",
+            "facetId":559809,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2866033,
+            "assembleContent":"<h3><ul><li><strong>2-3树是这样的一棵多路查找树：其中的每一个节点都具有两个孩子(我们称它为 2 节点)或三个孩子(我们称它为 3 节点)</strong></li></ul></h3> ",
+            "assembleText":"2-3树是这样的一棵多路查找树：其中的每一个节点都具有两个孩子(我们称它为 2 节点)或三个孩子(我们称它为 3 节点)",
+            "assembleScratchTime":"2019-03-24 23:21:31",
+            "facetId":559809,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.jianshu.com/p/d13676299db3",
+            "type":"text"
+        },
+        {
+            "assembleId":2866035,
+            "assembleContent":"<ul><li><strong>一个 3 节点包含一大一小两个元素和三个孩子(或没有孩子)</strong>，一个 3 节点要么没有孩子，要么具有 3 个孩子。如果某个 3 节点有孩子的话，左子树包含小于较小元素的元素，右子树包含大于较大元素的元素，中间子树包含介于两元素之间的元素</li></ul> ",
+            "assembleText":"一个 3 节点包含一大一小两个元素和三个孩子(或没有孩子)，一个 3 节点要么没有孩子，要么具有 3 个孩子。如果某个 3 节点有孩子的话，左子树包含小于较小元素的元素，右子树包含大于较大元素的元素，中间子树包含介于两元素之间的元素",
+            "assembleScratchTime":"2019-03-24 23:22:04",
+            "facetId":559809,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.jianshu.com/p/d13676299db3",
+            "type":"text"
+        },
+        {
+            "assembleId":2866036,
+            "assembleContent":"<p>并且 2-3 树种所有的叶子都在同一层次上。如下图所示就是一颗有效的 2-3 树</p><p><br></p><div><div><div></div><div><img src="https://upload-images.jianshu.io/upload_images/11476842-248ef366913a4f5c.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/807/format/webp"></div></div></div> ",
+            "assembleText":"并且 2-3 树种所有的叶子都在同一层次上。如下图所示就是一颗有效的 2-3 树",
+            "assembleScratchTime":"2019-03-24 23:22:20",
+            "facetId":559809,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.jianshu.com/p/d13676299db3",
+            "type":"text"
+        },
+        {
+            "assembleId":2866037,
+            "assembleContent":"<ul><li>事实上，2-3 树复杂的地方就在于新节点的插入和已有节点的删除。毕竟每个节点可能是 2 节点也可能是 3 节点，要保证所有叶子都在同一层次，是需要一番复杂操作的。</li></ul> ",
+            "assembleText":"事实上，2-3 树复杂的地方就在于新节点的插入和已有节点的删除。毕竟每个节点可能是 2 节点也可能是 3 节点，要保证所有叶子都在同一层次，是需要一番复杂操作的。",
+            "assembleScratchTime":"2019-03-24 23:22:29",
+            "facetId":559809,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.jianshu.com/p/d13676299db3",
+            "type":"text"
+        },
+        {
+            "assembleId":2863052,
+            "assembleContent":"<p>和标准的二叉查找树由上向下生长不同，2-3树的生长是由下向上的。  <br></p> ",
+            "assembleText":"和标准的二叉查找树由上向下生长不同，2-3树的生长是由下向上的。  ",
+            "assembleScratchTime":"2019-03-18 16:06:49",
+            "facetId":559810,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/fei33423/article/details/79132930",
+            "type":"text"
+        },
+        {
+            "assembleId":2863033,
+            "assembleContent":"<pre><code>可通过类似于中序遍历的方式。按有序的查找关键字顺序遍历2-3树 ，代码如下：<br><br>inorder(in ttTree:TwoThreeTree)<br><br>//Traverse the noneempty 2-3 tree ,ttTree in sorted<br><br>//search-key order<br><br>{<br><br>if(ttTree's root node r is a leaf)<br><br>visit the data items<br><br>else if(r has two data items)<br><br>{<br><br>inorder(left subtree of ttTree's root);<br><br>visit the first data item<br><br>inorder(middle subtree of ttTree's root);<br><br>visit the last data item<br><br>inorder(right subtree of ttTree's root);<br><br>}<br><br>else<br><br>{<br><br>inorder(left subtree of ttTree's root)<br><br>visit the first data item<br><br>inorder(middle subtree of tttree's root);<br><br>}<br><br>}</code></pre><p><br></p>   ",
+            "assembleText":"可通过类似于中序遍历的方式。按有序的查找关键字顺序遍历2-3树 ，代码如下： inorder(in ttTree:TwoThreeTree) //Traverse the noneempty 2-3 tree ,ttTree in sorted //search-key order { if(ttTree's root node r is a leaf) visit the data items else if(r has two data items) { inorder(left subtree of ttTree's root); visit the first data item inorder(middle subtree of ttTree's root); visit the last data item inorder(right subtree of ttTree's root); } else { inorder(left subtree of ttTree's root) visit the first data item inorder(middle subtree of tttree's root); } }",
+            "assembleScratchTime":"2019-03-18 15:56:23",
+            "facetId":559693,
+            "sourceId":12,
+            "domainId":413,
+            "url":"https://www.sogou.com/web?query=2-3%E6%A0%91&ie=utf8&_ast=1552895488&_asf=null&w=01029901&cid=&cid=&s_from=result_up&sut=2577&sst0=1552895503986&lkt=2%2C1552895502302%2C1552895502605&sugsuv=00FA17846F14E20E5AFF96C7ADF09178&sugtime=1552895503986",
+            "type":"text"
+        },
+        {
+            "assembleId":2863179,
+            "assembleContent":"<p><img src="http://yotta.xjtushilei.com:8090/1552903917903/981539009.png" style="max-width:100%;"><br></p> ",
+            "assembleText":"",
+            "assembleScratchTime":"2019-03-18 18:11:58",
+            "facetId":559693,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2863079,
+            "assembleContent":"<p><strong>本地转换</strong></p><p>将一个4-node拆分为2-3node涉及到6种可能的操作。这4-node可能在跟节点，也可能是2-node的左子节点或者右子节点。或者是一个3-node的左，中，右子节点。所有的这些改变都是本地的，不需要检查或者修改其他部分的节点。所以只需要常数次操作即可完成2-3树的平衡。</p><p> </p><p><a href="https://images0.cnblogs.com/blog/94031/201403/252249062951222.png"><img title="splite a 4-node is a local transformation" border="0" alt="splite a 4-node is a local transformation" src="https://images0.cnblogs.com/blog/94031/201403/252249068116365.png" width="536" height="371"></a></p> ",
+            "assembleText":"本地转换 将一个4-node拆分为2-3node涉及到6种可能的操作。这4-node可能在跟节点，也可能是2-node的左子节点或者右子节点。或者是一个3-node的左，中，右子节点。所有的这些改变都是本地的，不需要检查或者修改其他部分的节点。所以只需要常数次操作即可完成2-3树的平衡。  ",
+            "assembleScratchTime":"2019-03-18 16:12:37",
+            "facetId":559811,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863132,
+            "assembleContent":"<div><div>分解根节点</div><div>如果从插入结点到根节点的路径上全都是3-结点，我们的根节点最后会变成一个临时的4-结点。此时我们可以按照向一颗只有一个3-结点的树中插入新键的方法处理这个问题。我们将临时的4-结点分解为3个2-结点，使树高加1。这次变换仍然保持了树的完美平衡型。</div></div> ",
+            "assembleText":"分解根节点 如果从插入结点到根节点的路径上全都是3-结点，我们的根节点最后会变成一个临时的4-结点。此时我们可以按照向一颗只有一个3-结点的树中插入新键的方法处理这个问题。我们将临时的4-结点分解为3个2-结点，使树高加1。这次变换仍然保持了树的完美平衡型。",
+            "assembleScratchTime":"2019-03-18 16:30:32",
+            "facetId":559811,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863181,
+            "assembleContent":"<p><img src="http://yotta.xjtushilei.com:8090/1552903962609/1221328446.png" style="max-width:100%;"><br></p> ",
+            "assembleText":"",
+            "assembleScratchTime":"2019-03-18 18:12:43",
+            "facetId":559811,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2863182,
+            "assembleContent":"<p><img src="http://yotta.xjtushilei.com:8090/1552903979576/187515435.png" style="max-width:100%;"><br></p> ",
+            "assembleText":"",
+            "assembleScratchTime":"2019-03-18 18:13:00",
+            "facetId":559811,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2863183,
+            "assembleContent":"<p><img src="http://yotta.xjtushilei.com:8090/1552903993964/2036695355.png" style="max-width:100%;"><br></p> ",
+            "assembleText":"",
+            "assembleScratchTime":"2019-03-18 18:13:15",
+            "facetId":559811,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2863112,
+            "assembleContent":"<p>（理解红黑树一句话就够了：红黑树就是用红链接表示3-结点的2-3树。那么红黑树的插入、构造就可转化为2-3树的问题，即：在脑中用2-3树来操作，得到结果，再把结果中的3-结点转化为红链接即可。而2-3树的插入，前面已有详细图文，实际也很简单：有空则插，没空硬插，再分裂。  这样，我们就不用记那么复杂且让人头疼的红黑树插入旋转的各种情况了。只要清楚2-3树的插入方式即可。<br><br></p> ",
+            "assembleText":"（理解红黑树一句话就够了：红黑树就是用红链接表示3-结点的2-3树。那么红黑树的插入、构造就可转化为2-3树的问题，即：在脑中用2-3树来操作，得到结果，再把结果中的3-结点转化为红链接即可。而2-3树的插入，前面已有详细图文，实际也很简单：有空则插，没空硬插，再分裂。  这样，我们就不用记那么复杂且让人头疼的红黑树插入旋转的各种情况了。只要清楚2-3树的插入方式即可。",
+            "assembleScratchTime":"2019-03-18 16:25:51",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863113,
+            "assembleContent":"<p>红黑树是对2-3查找树的改进，它能用一种统一的方式完成所有变换。</p><p> </p> ",
+            "assembleText":"红黑树是对2-3查找树的改进，它能用一种统一的方式完成所有变换。  ",
+            "assembleScratchTime":"2019-03-18 16:26:04",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863114,
+            "assembleContent":"<p>红黑树背后的思想是用标准的二叉查找树（完全由2-结点构成）和一些额外的信息（替换3-结点）来表示2-3树。<br><br>我们将树中的链接分为两种类型：红链接将两个2-结点连接起来构成一个3-结点，黑链接则是2-3树中的普通链接。确切地说，我们将3-结点表示为由一条左斜的红色链接相连的两个2-结点。<br><br>这种表示法的一个优点是，我们无需修改就可以直接使用标准二叉查找树的get()方法。对于任意的2-3树，只要对结点进行转换，我们都可以立即派生出一颗对应的二叉查找树。我们将用这种方式表示2-3树的二叉查找树称为红黑树。<br></p> ",
+            "assembleText":"红黑树背后的思想是用标准的二叉查找树（完全由2-结点构成）和一些额外的信息（替换3-结点）来表示2-3树。 我们将树中的链接分为两种类型：红链接将两个2-结点连接起来构成一个3-结点，黑链接则是2-3树中的普通链接。确切地说，我们将3-结点表示为由一条左斜的红色链接相连的两个2-结点。 这种表示法的一个优点是，我们无需修改就可以直接使用标准二叉查找树的get()方法。对于任意的2-3树，只要对结点进行转换，我们都可以立即派生出一颗对应的二叉查找树。我们将用这种方式表示2-3树的二叉查找树称为红黑树。",
+            "assembleScratchTime":"2019-03-18 16:26:26",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863115,
+            "assembleContent":"<p><img src="https://upload-images.jianshu.io/upload_images/14371562-815f05e536945db0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"><br></p>   ",
+            "assembleText":"",
+            "assembleScratchTime":"2019-03-24 23:13:16",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863116,
+            "assembleContent":"<p><strong>红黑树的另一种定义</strong>是满足下列条件的二叉查找树：</p><p>⑴红链接均为左链接。</p><p>⑵没有任何一个结点同时和两条红链接相连。</p><p>⑶该树是完美黑色平衡的，即任意空链接到根结点的路径上的黑链接数量相同。</p> ",
+            "assembleText":"红黑树的另一种定义是满足下列条件的二叉查找树： ⑴红链接均为左链接。 ⑵没有任何一个结点同时和两条红链接相连。 ⑶该树是完美黑色平衡的，即任意空链接到根结点的路径上的黑链接数量相同。",
+            "assembleScratchTime":"2019-03-18 16:26:49",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863117,
+            "assembleContent":"<p>如果我们将一颗红黑树中的红链接画平，那么所有的空链接到根结点的距离都将是相同的。如果我们将由红链接相连的结点合并，得到的就是一颗2-3树。</p><p>相反，如果将一颗2-3树中的3-结点画作由红色左链接相连的两个2-结点，那么不会存在能够和两条红链接相连的结点，且树必然是完美平衡的。</p><p><br></p> ",
+            "assembleText":"如果我们将一颗红黑树中的红链接画平，那么所有的空链接到根结点的距离都将是相同的。如果我们将由红链接相连的结点合并，得到的就是一颗2-3树。 相反，如果将一颗2-3树中的3-结点画作由红色左链接相连的两个2-结点，那么不会存在能够和两条红链接相连的结点，且树必然是完美平衡的。",
+            "assembleScratchTime":"2019-03-18 16:27:05",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863118,
+            "assembleContent":"<div><div><p>红节点一定属于一个黑节点的左孩子,2-3中对应的3节点对应红黑树中的黑节点和黑节点左下角的红节点</p>
+<ol>
+<li><p>每个节点或者是红色的，或者是黑色的。</p></li>
+<li><p>根节点是一定是黑色的,2-3树中，当根节点是二节点的时候明显对应为黑色，当跟节点是三节点的时候，红黑树中对应的红节点就跑到坐下角了。</p></li>
+<li><p>每一个叶子节点(指最后的空节点，并不指左右节点都为空的那个节点)是黑色的相当于定义了空节点本身就是一个黑色的节点</p></li>
+<li>
+<p>如果一个节点是红色的，那么他的孩子节点都是黑色的2-3树中，红色节点对应的部分就是3节点，如果3节点的孩子是一个二节点，那当然没话说，是一个黑色节点，如果3节点的下面也是一个三节点，对应到红黑树中，就变成了一个黑节点以及黑节点左孩子红节点！</p>
+<p><em>注意：这个结论对于黑节点不成立，黑节点的右孩子一定是黑色的，但是左孩子可能为黑，可能为红！</em></p>
+</li>
+<li><p>(核心)从任意一个节点到叶子结点，经过的黑色节点个数是一样的在2-3树中，保持着绝对的平衡性，说明这是一颗满二叉树，所有叶子节点的深度都是一样的，对应到红黑树中，也就对应着所有的黑节点。</p></li></ol></div><br><br>作者：哈哈大圣<br>链接：https://www.jianshu.com/p/04d321502ae7<br>来源：简书<br>简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</div>  ",
+            "assembleText":"红节点一定属于一个黑节点的左孩子,2-3中对应的3节点对应红黑树中的黑节点和黑节点左下角的红节点 每个节点或者是红色的，或者是黑色的。 根节点是一定是黑色的,2-3树中，当根节点是二节点的时候明显对应为黑色，当跟节点是三节点的时候，红黑树中对应的红节点就跑到坐下角了。 每一个叶子节点(指最后的空节点，并不指左右节点都为空的那个节点)是黑色的相当于定义了空节点本身就是一个黑色的节点 如果一个节点是红色的，那么他的孩子节点都是黑色的2-3树中，红色节点对应的部分就是3节点，如果3节点的孩子是一个二节点，那当然没话说，是一个黑色节点，如果3节点的下面也是一个三节点，对应到红黑树中，就变成了一个黑节点以及黑节点左孩子红节点！ 注意：这个结论对于黑节点不成立，黑节点的右孩子一定是黑色的，但是左孩子可能为黑，可能为红！ (核心)从任意一个节点到叶子结点，经过的黑色节点个数是一样的在2-3树中，保持着绝对的平衡性，说明这是一颗满二叉树，所有叶子节点的深度都是一样的，对应到红黑树中，也就对应着所有的黑节点。 作者：哈哈大圣 链接：https://www.jianshu.com/p/04d321502ae7 来源：简书 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。",
+            "assembleScratchTime":"2019-03-24 23:13:38",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863119,
+            "assembleContent":"<p>无论我们用何种方式去定义它们，红黑树都既是二叉查找树，也是2-3树。</p><p>（2-3树的深度很小，平衡性好，效率高，但是其有两种不同的结点，实际代码实现比较复杂。而红黑树用红链接表示2-3树中另类的3-结点，统一了树中的结点类型，使代码实现简单化，又不破坏其高效性。）</p> ",
+            "assembleText":"无论我们用何种方式去定义它们，红黑树都既是二叉查找树，也是2-3树。 （2-3树的深度很小，平衡性好，效率高，但是其有两种不同的结点，实际代码实现比较复杂。而红黑树用红链接表示2-3树中另类的3-结点，统一了树中的结点类型，使代码实现简单化，又不破坏其高效性。）",
+            "assembleScratchTime":"2019-03-18 16:27:25",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863120,
+            "assembleContent":"<p><strong>颜色表示</strong>：</p><p>因为每个结点都只会有一条指向自己的链接（从它的父结点指向它），我们将链接的颜色保存在表示结点的Node数据类型的布尔变量color中（若指向它的链接是红色的，那么该变量为true，黑色则为false）。</p><p>当我们提到一个结点颜色时，我们指的是指向该结点的链接的颜色。</p> ",
+            "assembleText":"颜色表示： 因为每个结点都只会有一条指向自己的链接（从它的父结点指向它），我们将链接的颜色保存在表示结点的Node数据类型的布尔变量color中（若指向它的链接是红色的，那么该变量为true，黑色则为false）。 当我们提到一个结点颜色时，我们指的是指向该结点的链接的颜色。",
+            "assembleScratchTime":"2019-03-18 16:27:41",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863121,
+            "assembleContent":"<p><strong>旋转</strong></p><p><br></p><p>在我们实现的某些操作中可能会出现红色右链接或者两条连续的红链接，但在操作完成前这些情况都会被小心地旋转并修复。</p><p>（我们在这里不讨论旋转的几种情况，把红黑树看做2-3树，自然可以得到正确的旋转后结果）</p> ",
+            "assembleText":"旋转 在我们实现的某些操作中可能会出现红色右链接或者两条连续的红链接，但在操作完成前这些情况都会被小心地旋转并修复。 （我们在这里不讨论旋转的几种情况，把红黑树看做2-3树，自然可以得到正确的旋转后结果）",
+            "assembleScratchTime":"2019-03-18 16:27:49",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863122,
+            "assembleContent":"<p><strong>插入</strong></p><p><br></p><p>在插入时我们可以使用旋转操作帮助我们保证2-3树和红黑树之间的一一对应关系，因为旋转操作可以保持红黑树的两个重要性质：有序性和完美平衡性</p> ",
+            "assembleText":"插入 在插入时我们可以使用旋转操作帮助我们保证2-3树和红黑树之间的一一对应关系，因为旋转操作可以保持红黑树的两个重要性质：有序性和完美平衡性",
+            "assembleScratchTime":"2019-03-18 16:27:58",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863123,
+            "assembleContent":"<p><strong>向2-结点中插入新键</strong></p><p>（向红黑树中插入操作时，想想2-3树的插入操作。红黑树与2-3树在本质上是相同的，只是它们对3结点的表示不同。</p><p>向一个只含有一个2-结点的2-3树中插入新键后，2-结点变为3-结点。我们再把这个3-结点转化为红结点即可）</p><p><img src="https://img-blog.csdn.net/20140517143549781?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveWFuZ195dWxlaQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" alt="">  <br></p> ",
+            "assembleText":"向2-结点中插入新键 （向红黑树中插入操作时，想想2-3树的插入操作。红黑树与2-3树在本质上是相同的，只是它们对3结点的表示不同。 向一个只含有一个2-结点的2-3树中插入新键后，2-结点变为3-结点。我们再把这个3-结点转化为红结点即可）   ",
+            "assembleScratchTime":"2019-03-18 16:28:08",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863124,
+            "assembleContent":"<p><strong>向一颗双键树（即一个3-结点）中插入新键</strong></p><p>（向红黑树中插入操作时，想想2-3树的插入操作。你把红黑树当做2-3树来处理插入，一切都变得简单了）</p><p>（向2-3树中的一个3-结点插入新键，这个3结点临时成为4-结点，然后分裂成3个2结点）</p><p><img src="https://img-blog.csdn.net/20140517143641906?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveWFuZ195dWxlaQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" alt="">  <br></p> ",
+            "assembleText":"向一颗双键树（即一个3-结点）中插入新键 （向红黑树中插入操作时，想想2-3树的插入操作。你把红黑树当做2-3树来处理插入，一切都变得简单了） （向2-3树中的一个3-结点插入新键，这个3结点临时成为4-结点，然后分裂成3个2结点）   ",
+            "assembleScratchTime":"2019-03-18 16:28:17",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863125,
+            "assembleContent":"<p><strong>一颗红黑树的构造全过程</strong></p><p><img src="https://img-blog.csdn.net/20140517143739453?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveWFuZ195dWxlaQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" alt="">  <br></p> ",
+            "assembleText":"一颗红黑树的构造全过程   ",
+            "assembleScratchTime":"2019-03-18 16:28:29",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863189,
+            "assembleContent":"<p>Cormen, Thomas. Introduction to Algorithms. London: The MIT Press. 2009: 504. <a href="https://zh.wikipedia.org/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/978-0262033848" title="Special:网络书源/978-0262033848"><span title="国际标准书号">ISBN</span> 978-0262033848</a>.  <br></p> ",
+            "assembleText":"Cormen, Thomas. Introduction to Algorithms. London: The MIT Press. 2009: 504. ISBN 978-0262033848.  ",
+            "assembleScratchTime":"2019-03-18 18:18:18",
+            "facetId":559812,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2866013,
+            "assembleContent":"<h2>红黑树与2-3树的等价性</h2><p>红色的节点左倾斜是人为定义的</p><p><br></p><div><div><div></div><div><img src="https://upload-images.jianshu.io/upload_images/14371562-2f8c296512c69834.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div></div><div>红色的节点左倾斜.png</div></div><div><div><div></div><div><img src="https://upload-images.jianshu.io/upload_images/14371562-8e4d29f6650c2089.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div></div><div>红黑树与二三树1.png</div></div><div><div><div></div><div><img src="https://upload-images.jianshu.io/upload_images/14371562-84e502cb34dcf62e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div></div><div>红黑树与2-3树2.png</div></div> ",
+            "assembleText":"红黑树与2-3树的等价性 红色的节点左倾斜是人为定义的 红色的节点左倾斜.png 红黑树与二三树1.png 红黑树与2-3树2.png",
+            "assembleScratchTime":"2019-03-24 23:13:01",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2866015,
+            "assembleContent":"<div><p>红黑树是保持“黑平衡”的二叉树，严格意义上讲，不是平衡二叉树,最大高度为 2logn -- 高度的复杂度为O(logn)</p><div><div><div></div><div><img src="https://upload-images.jianshu.io/upload_images/14371562-25a72e37144f7f4f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div></div><div>复杂度.png</div></div><p>红黑树的查询操作比AVL树稍微要慢一些，但是添加和删除要优于AVL树</p></div>  ",
+            "assembleText":"红黑树是保持“黑平衡”的二叉树，严格意义上讲，不是平衡二叉树,最大高度为 2logn -- 高度的复杂度为O(logn) 复杂度.png 红黑树的查询操作比AVL树稍微要慢一些，但是添加和删除要优于AVL树",
+            "assembleScratchTime":"2019-03-24 23:13:51",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2866017,
+            "assembleContent":"<div><div><div><h2>保持根节点为黑色和左旋转</h2>
+<p>红黑树添加新元素(红节点是参与融合的节点)</p>
+<p>以 2-3树添加元素的过程来理解红黑树,如果添加进2-节点，形成一个3-节点,如果添加进3-及诶单，咱叔形成一个4-节点，再进行变形处理</p>
+<p>在2-3树中，添加一个节点首先不能添加到一个空的位置，而是与已经有的节点进行融合，那么，对应到红黑树中添加一个新的节点永远的都是红色的节点！</p>
+<p>2-3的融合过程永远对应的红节点</p>
+<ol>
+<li>要保持最终的根节点为黑色，颜色翻转和左旋转 <code>leftRotate</code>
+</li>
+</ol>
+<p>添加的节点为42红，翻转之后相当于添加的节点37红</p>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/14371562-f7863d4ca1dff500.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div>
+</div>
+<div>颜色翻转和左旋转.png</div>
+</div>
+<ol start="2">
+<li>向红黑树中的3节点添加元素</li>
+</ol>
+<ul>
+<li><ol>
+<li>添加的节点在父节点的右子树上<code>flipColors</code>
+</li>
+</ol></li>
+</ul>
+<p>添加的节点66红，然后进行颜色翻转，让父节点去融合</p>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/14371562-ba5570d070532ca5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div>
+</div>
+<div>颜色翻转.png</div>
+</div>
+<ul>
+<li><ol start="2">
+<li>添加的节点在父节点的左子树上 右旋转 ，父节点的颜色的保持原来父节点的颜色</li>
+</ol></li>
+</ul>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/14371562-a69ca9eb9455a42e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div>
+</div>
+<div>右旋转1.png</div>
+</div>
+<p>翻转后，右子节点相当于新添加的红节点</p>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/14371562-e0c13a51a3b0dbe0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div>
+</div>
+<div>右旋转2.png</div>
+</div>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/14371562-0c321fb35e73f48c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div>
+</div>
+<div>颜色翻转2.png</div></div></div><br><br>作者：哈哈大圣<br>链接：https://www.jianshu.com/p/04d321502ae7<br>来源：简书<br>简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</div></div>  ",
+            "assembleText":"保持根节点为黑色和左旋转 红黑树添加新元素(红节点是参与融合的节点) 以 2-3树添加元素的过程来理解红黑树,如果添加进2-节点，形成一个3-节点,如果添加进3-及诶单，咱叔形成一个4-节点，再进行变形处理 在2-3树中，添加一个节点首先不能添加到一个空的位置，而是与已经有的节点进行融合，那么，对应到红黑树中添加一个新的节点永远的都是红色的节点！ 2-3的融合过程永远对应的红节点 要保持最终的根节点为黑色，颜色翻转和左旋转 leftRotate 添加的节点为42红，翻转之后相当于添加的节点37红 颜色翻转和左旋转.png 向红黑树中的3节点添加元素 添加的节点在父节点的右子树上flipColors 添加的节点66红，然后进行颜色翻转，让父节点去融合 颜色翻转.png 添加的节点在父节点的左子树上 右旋转 ，父节点的颜色的保持原来父节点的颜色 右旋转1.png 翻转后，右子节点相当于新添加的红节点 右旋转2.png 颜色翻转2.png 作者：哈哈大圣 链接：https://www.jianshu.com/p/04d321502ae7 来源：简书 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。",
+            "assembleScratchTime":"2019-03-24 23:14:06",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2866019,
+            "assembleContent":"<div><h2>添加元素情况总结</h2><h2><div><div><div></div><div><img src="https://upload-images.jianshu.io/upload_images/14371562-04fb6e98da68ad16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div></div><div>add添加元素所有的情况分析.png</div></div></h2></div>  ",
+            "assembleText":"添加元素情况总结 add添加元素所有的情况分析.png",
+            "assembleScratchTime":"2019-03-24 23:14:17",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2866021,
+            "assembleContent":"<pre><code>红黑树代码的实现<br>import java.util.ArrayList;<br>import java.util.concurrent.BlockingDeque;<br><br>public class RBTree<K extends Comparable<K>, V> {<br><br>    private static final boolean RED = true;<br>    private static final boolean BLACK = false;<br><br>    private class Node{<br>        public K key;<br>        public V value;<br>        public Node left, right;<br>        public boolean color;<br><br>        public Node(K key, V value){<br>            this.key = key;<br>            this.value = value;<br>            this.left = null;<br>            this.right = null;<br>            this.color = RED;<br>        }<br>    }<br><br>    private Node root;<br>    private int size;<br><br>    public RBTree(){<br>        root = null;<br>        size = 0;<br>    }<br><br>    public int getSize(){<br>        return size;<br>    }<br><br>    public boolean isEmpty(){<br>        return size == 0;<br>    }<br><br>    // 判断节点node的颜色<br>    private boolean isRed(Node node){<br>        if(node == null) // 当跟节点为空的时候，默认为黑节点<br>            return BLACK;<br>        return node.color;<br>    }<br>    /**左旋转<br>     *  node              x<br>     *  / \   左旋转     /   \<br>     * t1 x ---------> node t3<br>     *   / \           / \<br>     *  t2 t3         t1 t2<br>     * */<br>    private Node leftRotate(Node node) {<br>        Node x = node.right;<br>        Node t2 = x.right;<br><br>        // 左旋转<br>        x.left = node;<br>        node.right = t2;<br><br>        x.color = node.color; // x等于原来树的根节点<br>        // 2-3树中，添加节点都是红节点，旋转交换之后，也必须<br>        // 保证这个特性。所以要把node变为红色！(以2-3树举个例子：<br>        // 一颗树先只有根节点为黑2，现在添加节点红4，对应到红黑树，<br>        // 根节点就要变成黑4,左子树就要变成红2！)<br>        node.color = RED;<br><br>        return x;<br>    }<br><br>    /**右旋转<br>     *    node            x<br>     *   /  \   右旋转    / \<br>     *  x   t2 -------> y node<br>     * / \                / \<br>     * y t1              t1 t2<br>     * */<br>    private Node rightRotate(Node node) {<br>        Node x = node.left;<br><br>        // 右旋转<br>        node.left = x.right;<br>        x.right = node;<br><br>        // 维护颜色<br>        x.color = node.color;<br>        node.color = RED;<br><br>        return x;<br>    }<br><br>    // 颜色翻转，向3节点添加一个节点(节点对应的位置在右子树，<br>    // 子节点变黑，父节点变红和上层进行融合)<br>    private void flipColors(Node node) {<br>        node.color = RED;<br>        node.left.color = BLACK;<br>        node.right.color = BLACK;<br>    }<br><br>    // 向红黑树中添加新的元素(key, value)<br>    public void add(K key, V value){<br>        root = add(root, key, value);<br>        root.color = BLACK; // 保持最终的根节点为黑色<br>    }<br><br>    // 向以node为根的红黑树中插入元素(key, value)，递归算法<br>    // 返回插入新节点后红黑树的根<br>    private Node add(Node node, K key, V value){<br><br>        if(node == null){<br>            size ++;<br>            return new Node(key, value);<br>        }<br><br>        if(key.compareTo(node.key) < 0)<br>            node.left = add(node.left, key, value);<br>        else if(key.compareTo(node.key) > 0)<br>            node.right = add(node.right, key, value);<br>        else // key.compareTo(node.key) == 0<br>            node.value = value;<br><br>        // 维护红黑树！！！！<br>        // 左旋转(对应两种情况！)<br>        if(isRed(node.right) && !isRed(node.left))<br>            node = this.leftRotate(node.left);<br><br>        // 右旋转<br>        if(isRed(node.left) && isRed(node.left.left))<br>            node = this.rightRotate(node.left);<br><br>        // 颜色翻转<br>        if(isRed(node.left) && isRed(node.right))<br>            this.flipColors(node);<br><br>        return node;<br>    }<br><br>    // 返回以node为根节点的二分搜索树中，key所在的节点<br>    private Node getNode(Node node, K key){<br><br>        if(node == null)<br>            return null;<br><br>        if(key.equals(node.key))<br>            return node;<br>        else if(key.compareTo(node.key) < 0)<br>            return getNode(node.left, key);<br>        else // if(key.compareTo(node.key) > 0)<br>            return getNode(node.right, key);<br>    }<br><br>    public boolean contains(K key){<br>        return getNode(root, key) != null;<br>    }<br><br>    public V get(K key){<br><br>        Node node = getNode(root, key);<br>        return node == null ? null : node.value;<br>    }<br><br>    public void set(K key, V newValue){<br>        Node node = getNode(root, key);<br>        if(node == null)<br>            throw new IllegalArgumentException(key + " doesn't exist!");<br><br>        node.value = newValue;<br>    }<br><br>    // 返回以node为根的二分搜索树的最小值所在的节点<br>    private Node minimum(Node node){<br>        if(node.left == null)<br>            return node;<br>        return minimum(node.left);<br>    }<br><br>    // 删除掉以node为根的二分搜索树中的最小节点<br>    // 返回删除节点后新的二分搜索树的根<br>    private Node removeMin(Node node){<br><br>        if(node.left == null){<br>            Node rightNode = node.right;<br>            node.right = null;<br>            size --;<br>            return rightNode;<br>        }<br><br>        node.left = removeMin(node.left);<br>        return node;<br>    }<br><br>    // 从二分搜索树中删除键为key的节点<br>    public V remove(K key){<br><br>        Node node = getNode(root, key);<br>        if(node != null){<br>            root = remove(root, key);<br>            return node.value;<br>        }<br>        return null;<br>    }<br><br>    private Node remove(Node node, K key){<br><br>        if( node == null )<br>            return null;<br><br>        if( key.compareTo(node.key) < 0 ){<br>            node.left = remove(node.left , key);<br>            return node;<br>        }<br>        else if(key.compareTo(node.key) > 0 ){<br>            node.right = remove(node.right, key);<br>            return node;<br>        }<br>        else{   // key.compareTo(node.key) == 0<br><br>            // 待删除节点左子树为空的情况<br>            if(node.left == null){<br>                Node rightNode = node.right;<br>                node.right = null;<br>                size --;<br>                return rightNode;<br>            }<br><br>            // 待删除节点右子树为空的情况<br>            if(node.right == null){<br>                Node leftNode = node.left;<br>                node.left = null;<br>                size --;<br>                return leftNode;<br>            }<br><br>            // 待删除节点左右子树均不为空的情况<br><br>            // 找到比待删除节点大的最小节点, 即待删除节点右子树的最小节点<br>            // 用这个节点顶替待删除节点的位置<br>            Node successor = minimum(node.right);<br>            successor.right = removeMin(node.right);<br>            successor.left = node.left;<br><br>            node.left = node.right = null;<br><br>            return successor;<br>        }<br>    }<br><br>    public static void main(String[] args){<br><br>        System.out.println("Pride and Prejudice");<br><br>        ArrayList<String> words = new ArrayList<>();<br>        if(FileOperation.readFile("pride-and-prejudice.txt", words)) {<br>            System.out.println("Total words: " + words.size());<br><br>            RBTree<String, Integer> map = new RBTree<>();<br>            for (String word : words) {<br>                if (map.contains(word))<br>                    map.set(word, map.get(word) + 1);<br>                else<br>                    map.add(word, 1);<br>            }<br><br>            System.out.println("Total different words: " + map.getSize());<br>            System.out.println("Frequency of PRIDE: " + map.get("pride"));<br>            System.out.println("Frequency of PREJUDICE: " + map.get("prejudice"));<br>        }<br><br>        System.out.println();<br>    }<br>}<br><br>作者：哈哈大圣<br>链接：https://www.jianshu.com/p/04d321502ae7<br>来源：简书<br>简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</code></pre><p><br></p> ",
+            "assembleText":"红黑树代码的实现 import java.util.ArrayList; import java.util.concurrent.BlockingDeque; public class RBTree<K extends Comparable<K>, V> {     private static final boolean RED = true;     private static final boolean BLACK = false;     private class Node{         public K key;         public V value;         public Node left, right;         public boolean color;         public Node(K key, V value){             this.key = key;             this.value = value;             this.left = null;             this.right = null;             this.color = RED;         }     }     private Node root;     private int size;     public RBTree(){         root = null;         size = 0;     }     public int getSize(){         return size;     }     public boolean isEmpty(){         return size == 0;     }     // 判断节点node的颜色     private boolean isRed(Node node){         if(node == null) // 当跟节点为空的时候，默认为黑节点             return BLACK;         return node.color;     }     /**左旋转      *  node              x      *  / \   左旋转     /   \      * t1 x ---------> node t3      *   / \           / \      *  t2 t3         t1 t2      * */     private Node leftRotate(Node node) {         Node x = node.right;         Node t2 = x.right;         // 左旋转         x.left = node;         node.right = t2;         x.color = node.color; // x等于原来树的根节点         // 2-3树中，添加节点都是红节点，旋转交换之后，也必须         // 保证这个特性。所以要把node变为红色！(以2-3树举个例子：         // 一颗树先只有根节点为黑2，现在添加节点红4，对应到红黑树，         // 根节点就要变成黑4,左子树就要变成红2！)         node.color = RED;         return x;     }     /**右旋转      *    node            x      *   /  \   右旋转    / \      *  x   t2 -------> y node      * / \                / \      * y t1              t1 t2      * */     private Node rightRotate(Node node) {         Node x = node.left;         // 右旋转         node.left = x.right;         x.right = node;         // 维护颜色         x.color = node.color;         node.color = RED;         return x;     }     // 颜色翻转，向3节点添加一个节点(节点对应的位置在右子树，     // 子节点变黑，父节点变红和上层进行融合)     private void flipColors(Node node) {         node.color = RED;         node.left.color = BLACK;         node.right.color = BLACK;     }     // 向红黑树中添加新的元素(key, value)     public void add(K key, V value){         root = add(root, key, value);         root.color = BLACK; // 保持最终的根节点为黑色     }     // 向以node为根的红黑树中插入元素(key, value)，递归算法     // 返回插入新节点后红黑树的根     private Node add(Node node, K key, V value){         if(node == null){             size ++;             return new Node(key, value);         }         if(key.compareTo(node.key) < 0)             node.left = add(node.left, key, value);         else if(key.compareTo(node.key) > 0)             node.right = add(node.right, key, value);         else // key.compareTo(node.key) == 0             node.value = value;         // 维护红黑树！！！！         // 左旋转(对应两种情况！)         if(isRed(node.right) && !isRed(node.left))             node = this.leftRotate(node.left);         // 右旋转         if(isRed(node.left) && isRed(node.left.left))             node = this.rightRotate(node.left);         // 颜色翻转         if(isRed(node.left) && isRed(node.right))             this.flipColors(node);         return node;     }     // 返回以node为根节点的二分搜索树中，key所在的节点     private Node getNode(Node node, K key){         if(node == null)             return null;         if(key.equals(node.key))             return node;         else if(key.compareTo(node.key) < 0)             return getNode(node.left, key);         else // if(key.compareTo(node.key) > 0)             return getNode(node.right, key);     }     public boolean contains(K key){         return getNode(root, key) != null;     }     public V get(K key){         Node node = getNode(root, key);         return node == null ? null : node.value;     }     public void set(K key, V newValue){         Node node = getNode(root, key);         if(node == null)             throw new IllegalArgumentException(key + " doesn't exist!");         node.value = newValue;     }     // 返回以node为根的二分搜索树的最小值所在的节点     private Node minimum(Node node){         if(node.left == null)             return node;         return minimum(node.left);     }     // 删除掉以node为根的二分搜索树中的最小节点     // 返回删除节点后新的二分搜索树的根     private Node removeMin(Node node){         if(node.left == null){             Node rightNode = node.right;             node.right = null;             size --;             return rightNode;         }         node.left = removeMin(node.left);         return node;     }     // 从二分搜索树中删除键为key的节点     public V remove(K key){         Node node = getNode(root, key);         if(node != null){             root = remove(root, key);             return node.value;         }         return null;     }     private Node remove(Node node, K key){         if( node == null )             return null;         if( key.compareTo(node.key) < 0 ){             node.left = remove(node.left , key);             return node;         }         else if(key.compareTo(node.key) > 0 ){             node.right = remove(node.right, key);             return node;         }         else{   // key.compareTo(node.key) == 0             // 待删除节点左子树为空的情况             if(node.left == null){                 Node rightNode = node.right;                 node.right = null;                 size --;                 return rightNode;             }             // 待删除节点右子树为空的情况             if(node.right == null){                 Node leftNode = node.left;                 node.left = null;                 size --;                 return leftNode;             }             // 待删除节点左右子树均不为空的情况             // 找到比待删除节点大的最小节点, 即待删除节点右子树的最小节点             // 用这个节点顶替待删除节点的位置             Node successor = minimum(node.right);             successor.right = removeMin(node.right);             successor.left = node.left;             node.left = node.right = null;             return successor;         }     }     public static void main(String[] args){         System.out.println("Pride and Prejudice");         ArrayList<String> words = new ArrayList<>();         if(FileOperation.readFile("pride-and-prejudice.txt", words)) {             System.out.println("Total words: " + words.size());             RBTree<String, Integer> map = new RBTree<>();             for (String word : words) {                 if (map.contains(word))                     map.set(word, map.get(word) + 1);                 else                     map.add(word, 1);             }             System.out.println("Total different words: " + map.getSize());             System.out.println("Frequency of PRIDE: " + map.get("pride"));             System.out.println("Frequency of PREJUDICE: " + map.get("prejudice"));         }         System.out.println();     } } 作者：哈哈大圣 链接：https://www.jianshu.com/p/04d321502ae7 来源：简书 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。",
+            "assembleScratchTime":"2019-03-24 23:14:42",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2866022,
+            "assembleContent":"<div><div><h2>红黑树更多的相关内容</h2>
+<ol>
+<li><p>红黑树中删除节点：过程特别复杂！连红黑树的发明人Robert Sedgewick 在其经典著作《算法4》中都没有详细介绍具体的实现逻辑；以后有时间可以好好研究研究！</p></li>
+<li>
+<p>红黑树的倾斜</p>
+<ul>
+<li>左倾红黑树：红节点在左子树，标准红黑树</li>
+<li>右倾红黑树：红节点在右子树。</li>
+<li>同时存在左倾和右倾：与2-4树等价，任何不平衡在三系旋转内解决</li>
+</ul>
+</li>
+<li><p>红黑树是一种统计性能优秀的树，另一种统计性优秀的树结构：Splay Tree(伸展树局部性原理：刚被访问的内容下次高概率被再次访问。)：</p></li>
+<li><p>Java中的treeMap、treeSet这些有序的映射集合底层用的红黑树</p></li>
+<li><p>红黑树的其他实现方式有很多，也有很多可以优化的地方,推荐看看《算法导论》中的红黑树的实现（添加和删除，用2-4树去理解！）</p></li>
+</ol>
+<p><strong>红黑树与其他树的性能总结：</strong><br>
+对于完全随机的数据，普通的二分搜索树很好用！，缺点极端情况下回退化成链表（高度不平衡）</p>
+<p>对于查询较多的使用情况，AVL树很好用</p>
+<p>红黑树牺牲了平衡性（2logn大高度），统计性更优（综合增删改查所有的操作）</p></div><br><br>作者：哈哈大圣<br>链接：https://www.jianshu.com/p/04d321502ae7<br>来源：简书<br>简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</div> ",
+            "assembleText":"红黑树更多的相关内容 红黑树中删除节点：过程特别复杂！连红黑树的发明人Robert Sedgewick 在其经典著作《算法4》中都没有详细介绍具体的实现逻辑；以后有时间可以好好研究研究！ 红黑树的倾斜 左倾红黑树：红节点在左子树，标准红黑树 右倾红黑树：红节点在右子树。 同时存在左倾和右倾：与2-4树等价，任何不平衡在三系旋转内解决 红黑树是一种统计性能优秀的树，另一种统计性优秀的树结构：Splay Tree(伸展树局部性原理：刚被访问的内容下次高概率被再次访问。)： Java中的treeMap、treeSet这些有序的映射集合底层用的红黑树 红黑树的其他实现方式有很多，也有很多可以优化的地方,推荐看看《算法导论》中的红黑树的实现（添加和删除，用2-4树去理解！） 红黑树与其他树的性能总结： 对于完全随机的数据，普通的二分搜索树很好用！，缺点极端情况下回退化成链表（高度不平衡） 对于查询较多的使用情况，AVL树很好用 红黑树牺牲了平衡性（2logn大高度），统计性更优（综合增删改查所有的操作） 作者：哈哈大圣 链接：https://www.jianshu.com/p/04d321502ae7 来源：简书 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。",
+            "assembleScratchTime":"2019-03-24 23:14:54",
+            "facetId":559812,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2852659,
+            "assembleContent":"<p>2-3树是最简单的B-树（或-树）结构，其每个非叶节点都有两个或三个子女，而且所有叶都在统一层上。2-3树不是二叉树，其节点可拥有3个孩子。不过，2-3树与满二叉树相似。高为h的2-3树包含的节点数大于等于高度为h的满二叉树的节点数，即至少有2^h-1个节点。  <br></p> ",
+            "assembleText":"2-3树是最简单的B-树（或-树）结构，其每个非叶节点都有两个或三个子女，而且所有叶都在统一层上。2-3树不是二叉树，其节点可拥有3个孩子。不过，2-3树与满二叉树相似。高为h的2-3树包含的节点数大于等于高度为h的满二叉树的节点数，即至少有2^h-1个节点。  ",
+            "assembleScratchTime":"2019-02-26 16:19:16",
+            "facetId":558184,
+            "sourceId":11,
+            "domainId":413,
+            "url":"https://baike.baidu.com/item/2-3%E6%A0%91/3484656",
+            "type":"text"
+        },
+        {
+            "assembleId":2852660,
+            "assembleContent":"<p>2-3树是最简单的<a target="_blank" href="https://baike.baidu.com/item/B-%E6%A0%91">B-树</a>（或-树）结构，其每个非叶节点都有两个或三个子女，而且所有叶都在统一层上。2-3树不是<a target="_blank" href="https://baike.baidu.com/item/%E4%BA%8C%E5%8F%89%E6%A0%91">二叉树</a>，其节点可拥有3个孩子。不过，2-3树与<a target="_blank" href="https://baike.baidu.com/item/%E6%BB%A1%E4%BA%8C%E5%8F%89%E6%A0%91">满二叉树</a>相似。若某棵2-3树不包含3-节点，则看上去像满二叉树，其所有内部节点都可有两个孩子，所有的叶子都在同一级别。另一方面，2-3树的一个内部节点确实有3个孩子，故比相同高度的满二叉树的节点更多。高为h的2-3树包含的节点数大于等于高度为h的满二叉树的节点数，即至少有2^h-1个<a target="_blank" href="https://baike.baidu.com/item/%E8%8A%82%E7%82%B9">节点</a>。换一个角度分析，包含n的节点的2-3树的高度不大于[log2(n+1)](即包含n个节点的二叉树的最小高度)。  <br></p> ",
+            "assembleText":"2-3树是最简单的B-树（或-树）结构，其每个非叶节点都有两个或三个子女，而且所有叶都在统一层上。2-3树不是二叉树，其节点可拥有3个孩子。不过，2-3树与满二叉树相似。若某棵2-3树不包含3-节点，则看上去像满二叉树，其所有内部节点都可有两个孩子，所有的叶子都在同一级别。另一方面，2-3树的一个内部节点确实有3个孩子，故比相同高度的满二叉树的节点更多。高为h的2-3树包含的节点数大于等于高度为h的满二叉树的节点数，即至少有2^h-1个节点。换一个角度分析，包含n的节点的2-3树的高度不大于[log2(n+1)](即包含n个节点的二叉树的最小高度)。  ",
+            "assembleScratchTime":"2019-02-26 16:19:33",
+            "facetId":558184,
+            "sourceId":11,
+            "domainId":413,
+            "url":"https://baike.baidu.com/item/2-3%E6%A0%91/3484656",
+            "type":"text"
+        },
+        {
+            "assembleId":2852675,
+            "assembleContent":"<p>2-3树是平衡的3路查找树，其中2（2-node）是指拥有两个分支的节点，3（3-node）是指拥有三个分支的节点。B-树是一种平衡的多路查找树，2-3树属于b-树，其也同样具有B-树的性质，如m阶B-树，节点至多有m个分支、m-1个关键字；内部节点的分支数至少为m/2取上限；所有叶节点都出现在同一层次上，并且不带任何信息（这是由构造树的逻辑决定的，实际上指向这些节点的引用为null）。  <br></p> ",
+            "assembleText":"2-3树是平衡的3路查找树，其中2（2-node）是指拥有两个分支的节点，3（3-node）是指拥有三个分支的节点。B-树是一种平衡的多路查找树，2-3树属于b-树，其也同样具有B-树的性质，如m阶B-树，节点至多有m个分支、m-1个关键字；内部节点的分支数至少为m/2取上限；所有叶节点都出现在同一层次上，并且不带任何信息（这是由构造树的逻辑决定的，实际上指向这些节点的引用为null）。  ",
+            "assembleScratchTime":"2019-02-26 16:25:54",
+            "facetId":558184,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.cnblogs.com/holoyong/p/7245957.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2852676,
+            "assembleContent":"<p>2-3查找树的定义如下：</p><p>1. 要么为空，要么：</p><p>2 对于2节点，该节点保存一个key及对应value，以及两个指向左右节点的节点，左节点也是一个2-3节点，所有的值都比key有效，有节点也是一个2-3节点，所有的值比key要大。</p><p>3. 对于3节点，该节点保存两个key及对应value，以及三个指向左中右的节点。左节点也是一个2-3节点，所有的值均比两个key中的最小的key还要小；中间节点也是一个2-3节点，中间节点的key值在两个跟节点key值之间；右节点也是一个2-3节点，节点的所有key值比两个key中的最大的key还要大。</p><p><img src="https://images2017.cnblogs.com/blog/1205485/201707/1205485-20170727153706883-547212082.png" alt=""></p> ",
+            "assembleText":"2-3查找树的定义如下： 1. 要么为空，要么： 2 对于2节点，该节点保存一个key及对应value，以及两个指向左右节点的节点，左节点也是一个2-3节点，所有的值都比key有效，有节点也是一个2-3节点，所有的值比key要大。 3. 对于3节点，该节点保存两个key及对应value，以及三个指向左中右的节点。左节点也是一个2-3节点，所有的值均比两个key中的最小的key还要小；中间节点也是一个2-3节点，中间节点的key值在两个跟节点key值之间；右节点也是一个2-3节点，节点的所有key值比两个key中的最大的key还要大。",
+            "assembleScratchTime":"2019-02-26 16:26:09",
+            "facetId":558184,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.cnblogs.com/holoyong/p/7245957.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863029,
+            "assembleContent":"<p>2-3树与 <a target="_blank" href="https://baike.sogou.com/lemma/ShowInnerLink.htm?lemmaId=8045596&ss_c=ssc.citiao.link">满二叉树</a>相似。若某棵2-3树不包含3-节点，则看上去像满二叉树，其所有内部节点都可有两个孩子，所有的叶子都在同一级别。另一方面，2-3树的一个内部节点确实有3个孩子，故比相同高度的满二叉树的节点更多。高为h的2-3树包含的节点数大于等于高度为h的满二叉树的节点数，即至少有2^h-1个 节点。换一个角度分析，包含n的节点的2-3树的高度不大于[log2(n+1)](即包含n个节点的二叉树的最小高度)。  <br></p>   ",
+            "assembleText":"2-3树与 满二叉树相似。若某棵2-3树不包含3-节点，则看上去像满二叉树，其所有内部节点都可有两个孩子，所有的叶子都在同一级别。另一方面，2-3树的一个内部节点确实有3个孩子，故比相同高度的满二叉树的节点更多。高为h的2-3树包含的节点数大于等于高度为h的满二叉树的节点数，即至少有2^h-1个 节点。换一个角度分析，包含n的节点的2-3树的高度不大于[log2(n+1)](即包含n个节点的二叉树的最小高度)。  ",
+            "assembleScratchTime":"2019-03-18 15:53:33",
+            "facetId":558184,
+            "sourceId":12,
+            "domainId":413,
+            "url":"https://www.sogou.com/web?query=2-3%E6%A0%91&ie=utf8&_ast=1552895488&_asf=null&w=01029901&cid=&cid=&s_from=result_up&sut=2577&sst0=1552895503986&lkt=2%2C1552895502302%2C1552895502605&sugsuv=00FA17846F14E20E5AFF96C7ADF09178&sugtime=1552895503986",
+            "type":"text"
+        },
+        {
+            "assembleId":2863170,
+            "assembleContent":"<p><img src="http://yotta.xjtushilei.com:8090/1552903589881/1032930607.png" style="max-width:100%;"><br></p>  ",
+            "assembleText":"",
+            "assembleScratchTime":"2019-03-18 18:06:58",
+            "facetId":558184,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2863167,
+            "assembleContent":"<p>当且仅当以下叙述中有一条成立时，T为2–3树：</p><ul><li>T为空。即T不包含任何节点。</li><li>T为拥有数据元素a的2节点。若T的左孩子为L、右孩子为R，则<ul><li>L和R是等高的非空2–3树；</li><li>a大于L中的所有数据元素；同时</li><li>a小于等于R中的所有数据元素。</li></ul></li><li>T为拥有数据元素a和b的3节点，其中a < b。若T的左孩子为L、中孩子为M、右孩子为R，则<ul><li>L、M、和R是等高的非空2–3树；</li><li>a大于L中的所有数据元素，并且小于等于M中的所有数据元素；同时</li><li>b大于M中的所有数据元素，并且小于等于R中的所有数据元素。</li></ul></li></ul>  ",
+            "assembleText":"当且仅当以下叙述中有一条成立时，T为2–3树： T为空。即T不包含任何节点。 T为拥有数据元素a的2节点。若T的左孩子为L、右孩子为R，则 L和R是等高的非空2–3树； a大于L中的所有数据元素；同时 a小于等于R中的所有数据元素。 T为拥有数据元素a和b的3节点，其中a < b。若T的左孩子为L、中孩子为M、右孩子为R，则 L、M、和R是等高的非空2–3树； a大于L中的所有数据元素，并且小于等于M中的所有数据元素；同时 b大于M中的所有数据元素，并且小于等于R中的所有数据元素。",
+            "assembleScratchTime":"2019-03-18 18:02:37",
+            "facetId":558184,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2863066,
+            "assembleContent":"<p>前面介绍了<a href="http://www.cnblogs.com/yangecnu/p/Introduce-Binary-Search-Tree.html">二叉查找树</a>(Binary Search Tree)，他对于大多数情况下的查找和插入在效率上来说是没有问题的，但是他在最差的情况下效率比较低。本文及后面文章介绍的平衡查找树的数据结构能够保证在最差的情况下也能达到lgN的效率，要实现这一目标我们需要保证树在插入完成之后始终保持平衡状态，这就是平衡查找树(Balanced Search Tree)。在一棵具有N 个节点的树中，我们希望该树的高度能够维持在lgN左右，这样我们就能保证只需要lgN次比较操作就可以查找到想要的值。不幸的是，每次插入元素之后维持树的平衡状态太昂贵。所以这里会介绍一些新的数据结构来保证在最坏的情况下插入和查找效率都能保证在对数的时间复杂度内完成。本文首先介绍2-3查找树(2-3 Search Tree)，后面会在此基础上介绍红黑树和B树。  <br></p> ",
+            "assembleText":"前面介绍了二叉查找树(Binary Search Tree)，他对于大多数情况下的查找和插入在效率上来说是没有问题的，但是他在最差的情况下效率比较低。本文及后面文章介绍的平衡查找树的数据结构能够保证在最差的情况下也能达到lgN的效率，要实现这一目标我们需要保证树在插入完成之后始终保持平衡状态，这就是平衡查找树(Balanced Search Tree)。在一棵具有N 个节点的树中，我们希望该树的高度能够维持在lgN左右，这样我们就能保证只需要lgN次比较操作就可以查找到想要的值。不幸的是，每次插入元素之后维持树的平衡状态太昂贵。所以这里会介绍一些新的数据结构来保证在最坏的情况下插入和查找效率都能保证在对数的时间复杂度内完成。本文首先介绍2-3查找树(2-3 Search Tree)，后面会在此基础上介绍红黑树和B树。  ",
+            "assembleScratchTime":"2019-03-18 16:09:23",
+            "facetId":558184,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863067,
+            "assembleContent":"<p>和二叉树不一样，2-3树运行每个节点保存1个或者两个的值。对于普通的2节点(2-node)，他保存1个key和左右两个自己点。对应3节点(3-node)，保存两个Key，  <br></p> ",
+            "assembleText":"和二叉树不一样，2-3树运行每个节点保存1个或者两个的值。对于普通的2节点(2-node)，他保存1个key和左右两个自己点。对应3节点(3-node)，保存两个Key，  ",
+            "assembleScratchTime":"2019-03-18 16:09:41",
+            "facetId":558184,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863168,
+            "assembleContent":"<p>  2-3 Tree
+Guaranteed to always be balanced
+! O(lg n) operations
+Each interior node has two or three
+children
+! Nodes with 2 children are called 2 nodes
+! Nodes with 3 children are called 3 nodes
+! NOT A BINARY TREE
+Data is stored in both internal nodes
+and leaves  <br></p>  ",
+            "assembleText":"  2-3 Tree Guaranteed to always be balanced ! O(lg n) operations Each interior node has two or three children ! Nodes with 2 children are called 2 nodes ! Nodes with 3 children are called 3 nodes ! NOT A BINARY TREE Data is stored in both internal nodes and leaves  ",
+            "assembleScratchTime":"2019-03-18 18:03:18",
+            "facetId":558184,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2863177,
+            "assembleContent":"<p><img src="http://yotta.xjtushilei.com:8090/1552903868950/1983659110.png" style="max-width:100%;"><br></p> ",
+            "assembleText":"",
+            "assembleScratchTime":"2019-03-18 18:11:09",
+            "facetId":558184,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2863176,
+            "assembleContent":"<p><img src="http://yotta.xjtushilei.com:8090/1552903853249/687128301.png" style="max-width:100%;"><br></p> ",
+            "assembleText":"",
+            "assembleScratchTime":"2019-03-18 18:10:54",
+            "facetId":558184,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2866023,
+            "assembleContent":"<h2><div><div><p>一棵2-3查找树或为一棵空树,或由以下节点组成:</p>
+<blockquote>
+<p>2-节点:含有一个键和两条链接,左链接指向的2-3树中的键都小于该节点,右链接指向的2-3树中的键都大于该节点.<br>
+3-节点:含有两个键和三条链接,左链接指向的2-3树中的键都小于该节点,中链接指向的2-3树中的键都位于该节点的两个键之间,右链接指向的2-3树中的键都大于该节点.</p></blockquote></div><br><br>作者：nicktming<br>链接：https://www.jianshu.com/p/09b5fc3282e8<br>来源：简书<br>简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</div></h2> ",
+            "assembleText":"一棵2-3查找树或为一棵空树,或由以下节点组成: 2-节点:含有一个键和两条链接,左链接指向的2-3树中的键都小于该节点,右链接指向的2-3树中的键都大于该节点. 3-节点:含有两个键和三条链接,左链接指向的2-3树中的键都小于该节点,中链接指向的2-3树中的键都位于该节点的两个键之间,右链接指向的2-3树中的键都大于该节点. 作者：nicktming 链接：https://www.jianshu.com/p/09b5fc3282e8 来源：简书 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。",
+            "assembleScratchTime":"2019-03-24 23:15:23",
+            "facetId":558184,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2852680,
+            "assembleContent":"<p><strong>2-3查找树：</strong></p><ul><li>一种保持有序结构的查找树。</li><li>可以维持动态平衡的有序查找树。</li></ul> ",
+            "assembleText":"2-3查找树： 一种保持有序结构的查找树。 可以维持动态平衡的有序查找树。",
+            "assembleScratchTime":"2019-02-26 16:27:36",
+            "facetId":558354,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.cnblogs.com/holoyong/p/7245957.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2852662,
+            "assembleContent":"<div label-module="para">例如，下图显示高度为3的2-3树。包含两个孩子的节点称为2-节点，二叉树中的节点都是2-节点；包含三个孩子的节点称为3-节点。</div><div label-module="para"><div><a nslog-type="9317" href="https://baike.baidu.com/pic/2-3%E6%A0%91/3484656/0/d833c895d143ad4b489a234681025aafa50f06fb?fr=lemma&ct=single" target="_blank" title=""><img src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=3e0f99a17c3e6709ba0042fd0bc69fb8/d833c895d143ad4b489a234681025aafa50f06fb.jpg" alt=""></a></div></div><div label-module="para">将数据项放入2-3树节点中的规则是：</div><div label-module="para">（1）2-节点有两个孩子，必含一个<a target="_blank" href="https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E9%A1%B9">数据项</a>，其查找关键字大于左孩子的查找关键字，而小于右孩子的查找关键字。</div><div label-module="para">（2）3-节点有三个孩子 ，必含两个数据项，其查找关键字S和L满足下列关系：S大于左孩子的查找关键字，而小于中孩子的查找关键字；L大于中孩子的查找关键字，而小于右孩子的查找关键字。</div><div label-module="para">（3）叶子可以包含一个或两个数据项。</div> ",
+            "assembleText":"例如，下图显示高度为3的2-3树。包含两个孩子的节点称为2-节点，二叉树中的节点都是2-节点；包含三个孩子的节点称为3-节点。 将数据项放入2-3树节点中的规则是： （1）2-节点有两个孩子，必含一个数据项，其查找关键字大于左孩子的查找关键字，而小于右孩子的查找关键字。 （2）3-节点有三个孩子 ，必含两个数据项，其查找关键字S和L满足下列关系：S大于左孩子的查找关键字，而小于中孩子的查找关键字；L大于中孩子的查找关键字，而小于右孩子的查找关键字。 （3）叶子可以包含一个或两个数据项。",
+            "assembleScratchTime":"2019-02-26 16:19:50",
+            "facetId":558456,
+            "sourceId":11,
+            "domainId":413,
+            "url":"https://baike.baidu.com/item/2-3%E6%A0%91/3484656",
+            "type":"text"
+        },
+        {
+            "assembleId":2863178,
+            "assembleContent":"<p><img src="http://yotta.xjtushilei.com:8090/1552903882272/1305816964.png" style="max-width: 100%;"><br></p> ",
+            "assembleText":"",
+            "assembleScratchTime":"2019-03-18 18:11:31",
+            "facetId":558456,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2865567,
+            "assembleContent":"<p><img src="http://yotta.xjtushilei.com:8090/1553436616024/440765608.jpg" style="max-width:100%;"><br></p> ",
+            "assembleText":"",
+            "assembleScratchTime":"2019-03-24 22:10:16",
+            "facetId":558456,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/zhanggonglalala/article/details/79738213 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2866012,
+            "assembleContent":"<div><div><p>2-3树绝对平衡的原理如下情况分析(4种情况)</p>
+<ul>
+<li><ol>
+<li>插入2节点</li>
+</ol></li>
+</ul>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/14371562-814c70a18d024a2f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div>
+</div>
+<div>2-节点.png</div>
+</div>
+<ul>
+<li><ol start="2">
+<li>插入3节点</li>
+</ol></li>
+</ul>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/14371562-f3370edce1f4d07c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div>
+</div>
+<div>3-节点.png</div>
+</div>
+<ul>
+<li><ol start="3">
+<li>插入3节点，父节点为2节点</li>
+</ol></li>
+</ul>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/14371562-34c7cdd77ded4cd4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div>
+</div>
+<div>3-节点父2-节点1.png</div>
+</div>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/14371562-942e8af09282f42b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div>
+</div>
+<div>3-节点父2-节点2.png</div>
+</div>
+<ul>
+<li><ol start="4">
+<li>插入3节点，父节点为3节点</li>
+</ol></li>
+</ul>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/14371562-0bf6c3717775c2e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div>
+</div>
+<div>3-节点父3-节点1.png</div>
+</div>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/14371562-7344b85add6dada5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div></div></div></div><br><br>作者：哈哈大圣<br>链接：https://www.jianshu.com/p/04d321502ae7<br>来源：简书<br>简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</div> ",
+            "assembleText":"2-3树绝对平衡的原理如下情况分析(4种情况) 插入2节点 2-节点.png 插入3节点 3-节点.png 插入3节点，父节点为2节点 3-节点父2-节点1.png 3-节点父2-节点2.png 插入3节点，父节点为3节点 3-节点父3-节点1.png 作者：哈哈大圣 链接：https://www.jianshu.com/p/04d321502ae7 来源：简书 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。",
+            "assembleScratchTime":"2019-03-24 23:12:44",
+            "facetId":558456,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2852681,
+            "assembleContent":"<p>构建2-3树<br>字典的两个主要操作为：查找和插入。而在前面一篇文章说到，作为有序表，查找性能和插入性能最理想的状态为O(lgn)O(lg⁡n)，这点可以说明，BST作为树形结构，已经完全符合字典的设计了，而如果从一个全新的结构去构建字典显然已经没有多大的必要了。<br><br>BST最大的问题在于，它对输入敏感，针对有序的插入，它构建出来的结构相当于是链表。为什么会出现这种情况？<br><br>作为有序插入，每当有新节点加入时，树没有选择【节点去向】的权力。（这好像是构建有序树的特质，树也无力改变，真惨！）<br>树失去了分配【节点去向】的权力，自然就没办法动态改变它的高度。（出现极端情况的原因）<br>那么你会问了，难道就不能当输入到一定量时，发现树的深度太深，直接全局调整不行么？有了全局信息，不就能调控，分配每个节点了么。的确，我们要引出以下原因：<br><br>调控可以，但为了拿到这些全局信息，我们需要遍历整个BST，而此时BST相当于链表，遍历一次的代价已经高于查找的效率，何必呢。<br>在插入时动态调整是最佳的，而当树已经生成时，再去做树的大调整，显然实际有点难以操作。（这两条的认识都比较感性）<br>综上，字典key的有序性影响了【节点去向】，树失去了【分配权】，其次结构随插入时，树的【动态调整】优于【全局调整】。所以，我们需要设计一种结构能够符合：<br><br>拥有分配权<br>可以动态调整<br>指标提出来了，但真的要设计出这样的结构的确不是一般人能做的，好在，这世界有太多的大牛了，我们可以参考人家的思路。<br></p>  ",
+            "assembleText":"构建2-3树 字典的两个主要操作为：查找和插入。而在前面一篇文章说到，作为有序表，查找性能和插入性能最理想的状态为O(lgn)O(lg⁡n)，这点可以说明，BST作为树形结构，已经完全符合字典的设计了，而如果从一个全新的结构去构建字典显然已经没有多大的必要了。 BST最大的问题在于，它对输入敏感，针对有序的插入，它构建出来的结构相当于是链表。为什么会出现这种情况？ 作为有序插入，每当有新节点加入时，树没有选择【节点去向】的权力。（这好像是构建有序树的特质，树也无力改变，真惨！） 树失去了分配【节点去向】的权力，自然就没办法动态改变它的高度。（出现极端情况的原因） 那么你会问了，难道就不能当输入到一定量时，发现树的深度太深，直接全局调整不行么？有了全局信息，不就能调控，分配每个节点了么。的确，我们要引出以下原因： 调控可以，但为了拿到这些全局信息，我们需要遍历整个BST，而此时BST相当于链表，遍历一次的代价已经高于查找的效率，何必呢。 在插入时动态调整是最佳的，而当树已经生成时，再去做树的大调整，显然实际有点难以操作。（这两条的认识都比较感性） 综上，字典key的有序性影响了【节点去向】，树失去了【分配权】，其次结构随插入时，树的【动态调整】优于【全局调整】。所以，我们需要设计一种结构能够符合： 拥有分配权 可以动态调整 指标提出来了，但真的要设计出这样的结构的确不是一般人能做的，好在，这世界有太多的大牛了，我们可以参考人家的思路。",
+            "assembleScratchTime":"2019-02-26 16:28:46",
+            "facetId":558487,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/u014688145/article/details/67636509",
+            "type":"text"
+        },
+        {
+            "assembleId":2863088,
+            "assembleContent":"<p>直接实现2-3树比较复杂，因为：</p><ol><li>需要处理不同的节点类型，非常繁琐</li><li>需要多次比较操作来将节点下移</li><li>需要上移来拆分4-node节点</li><li>拆分4-node节点的情况有很多种</li></ol><p>2-3查找树实现起来比较复杂，在某些情况插入后的平衡操作可能会使得效率降低。在2-3查找树基础上改进的红黑树不仅具有较高的效率，并且实现起来较2-3查找树简单。</p> ",
+            "assembleText":"直接实现2-3树比较复杂，因为： 需要处理不同的节点类型，非常繁琐 需要多次比较操作来将节点下移 需要上移来拆分4-node节点 拆分4-node节点的情况有很多种 2-3查找树实现起来比较复杂，在某些情况插入后的平衡操作可能会使得效率降低。在2-3查找树基础上改进的红黑树不仅具有较高的效率，并且实现起来较2-3查找树简单。",
+            "assembleScratchTime":"2019-03-18 16:14:39",
+            "facetId":558487,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863165,
+            "assembleContent":"<p>2–3树由<a href="https://zh.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E9%9C%8D%E6%99%AE%E5%85%8B%E6%B4%9B%E5%A4%AB%E7%89%B9" title="约翰·霍普克洛夫特">约翰·霍普克洛夫</a>特于1970年发明。  <br></p>  ",
+            "assembleText":"2–3树由约翰·霍普克洛夫特于1970年发明。  ",
+            "assembleScratchTime":"2019-03-18 18:01:59",
+            "facetId":558498,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2852664,
+            "assembleContent":"<div label-module="para"><div label-module="para"><pre><code>inorder(in ttTree:TwoThreeTree)<br>//Traverse the noneempty 2-3 tree ,ttTree in sorted<br>//search-key order<br>{<br>if(ttTree's root node r is a leaf)<br>visit the data items<br>else if(r has two data items)<br>{<br>inorder(left subtree of ttTree's root);<br>visit the first data item<br>inorder(middle subtree of ttTree's root);<br>visit the last data item<br>inorder(right subtree of ttTree's root);<br>}<br>else<br>{<br>inorder(left subtree of ttTree's root)<br>visit the first data item<br>inorder(middle subtree of tttree's root);<br>}<br>}</code></pre><p><br></p></div></div> ",
+            "assembleText":"inorder(in ttTree:TwoThreeTree) //Traverse the noneempty 2-3 tree ,ttTree in sorted //search-key order { if(ttTree's root node r is a leaf) visit the data items else if(r has two data items) { inorder(left subtree of ttTree's root); visit the first data item inorder(middle subtree of ttTree's root); visit the last data item inorder(right subtree of ttTree's root); } else { inorder(left subtree of ttTree's root) visit the first data item inorder(middle subtree of tttree's root); } }",
+            "assembleScratchTime":"2019-02-26 16:20:47",
+            "facetId":558499,
+            "sourceId":11,
+            "domainId":413,
+            "url":"https://baike.baidu.com/item/2-3%E6%A0%91/3484656",
+            "type":"text"
+        },
+        {
+            "assembleId":2863058,
+            "assembleContent":"<p>我们需要维护两种不同类型的结点，查找和插入操作的实现需要大量的代码，而且它们所产生的额外开销可能会使算法比标准的二叉查找树更慢。  <br></p> ",
+            "assembleText":"我们需要维护两种不同类型的结点，查找和插入操作的实现需要大量的代码，而且它们所产生的额外开销可能会使算法比标准的二叉查找树更慢。  ",
+            "assembleScratchTime":"2019-03-18 16:07:49",
+            "facetId":558899,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/fei33423/article/details/79132930",
+            "type":"text"
+        },
+        {
+            "assembleId":2863060,
+            "assembleContent":"<p>平衡一棵树的初衷是为了消除最坏情况，但我们希望这种保障所需的代码能够越少越好。  <br></p> ",
+            "assembleText":"平衡一棵树的初衷是为了消除最坏情况，但我们希望这种保障所需的代码能够越少越好。  ",
+            "assembleScratchTime":"2019-03-18 16:07:57",
+            "facetId":558899,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/fei33423/article/details/79132930",
+            "type":"text"
+        },
+        {
+            "assembleId":2852679,
+            "assembleContent":"<p>2-3树作为一种平衡查找树，查询效率比普通的二叉排序树要稳定许多，其操作逻辑也非常清晰。2-3树可以采用红黑树实现，使用二叉树结构从逻辑上模拟了2-3树，在插入删除节点时，又具有二叉平衡树的便利。  <br></p> ",
+            "assembleText":"2-3树作为一种平衡查找树，查询效率比普通的二叉排序树要稳定许多，其操作逻辑也非常清晰。2-3树可以采用红黑树实现，使用二叉树结构从逻辑上模拟了2-3树，在插入删除节点时，又具有二叉平衡树的便利。  ",
+            "assembleScratchTime":"2019-02-26 16:27:07",
+            "facetId":558900,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.cnblogs.com/holoyong/p/7245957.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863037,
+            "assembleContent":"<p>二叉查找树由于可能会非常的不均衡. 所以用2-3树. 采用上上浮的方法,顶多多两倍节点数.  <br></p> ",
+            "assembleText":"二叉查找树由于可能会非常的不均衡. 所以用2-3树. 采用上上浮的方法,顶多多两倍节点数.  ",
+            "assembleScratchTime":"2019-03-18 15:58:40",
+            "facetId":558900,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/fei33423/article/details/79132930",
+            "type":"text"
+        },
+        {
+            "assembleId":2863054,
+            "assembleContent":"<p>2-3树在最坏情况下仍有较好的性能。每个操作中处理每个结点的时间都不会超过一个很小的常数，且这两个操作都只会访问一条路径上的结点，所以<u>任何查找或者插入的成本都肯定不会超过对数级别</u>。  <br></p> ",
+            "assembleText":"2-3树在最坏情况下仍有较好的性能。每个操作中处理每个结点的时间都不会超过一个很小的常数，且这两个操作都只会访问一条路径上的结点，所以任何查找或者插入的成本都肯定不会超过对数级别。  ",
+            "assembleScratchTime":"2019-03-18 16:07:20",
+            "facetId":558900,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/fei33423/article/details/79132930",
+            "type":"text"
+        },
+        {
+            "assembleId":2863056,
+            "assembleContent":"<p>完美平衡的2-3树要平展的多。例如，含有10亿个结点的一颗2-3树的高度仅在19到30之间。我们最多只需要访问30个结点就能在10亿个键中进行任意查找和插入操作。  <br></p> ",
+            "assembleText":"完美平衡的2-3树要平展的多。例如，含有10亿个结点的一颗2-3树的高度仅在19到30之间。我们最多只需要访问30个结点就能在10亿个键中进行任意查找和插入操作。  ",
+            "assembleScratchTime":"2019-03-18 16:07:39",
+            "facetId":558900,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/fei33423/article/details/79132930",
+            "type":"text"
+        },
+        {
+            "assembleId":2866027,
+            "assembleContent":"<h3>2-3-4树的插入</h3><h3><div><div>
+<p>2-3-4树的插入可以简单的理解成一种“加法进位”。例如当你按照普通二叉树的插入规则插入节点，最后定位到需要插入到一个指定的节点。普通二叉查找树可能是直接在节点下方添加一个子节点，而2-3-4树当中则会以一种“合并”的方式并入到当前节点当中。正因为这种“合并”操作使得2-3-4树在插入删除时保持实时平衡成为可能，因为每次插入2-3-4树的节点都会有一次判断的机会（可能时并入也可能是分裂（进位）），有了这一次操作就可以将暂时会导致破坏树平衡的新添加的节点“缓存”起来，当“缓存”节点到达一定的数量时就会分裂提升一级树的高度。这就是2-3-4树插入时能够达到实时平衡的核心思想。</p>
+<p>下面结合图例来分析2-3-4树插入的具体逻辑（注：图例均选为234树的子树来做分析来减少复杂度）。首先当定位到插入的节点时一个2node（节点中只有一个数据并且拥有两个子节点）时，插入的数据会被“并入到”2node节点当中，然后形成一个3node节点。如下图：</p>
+<br>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/7030331-ba7fb26a82f1962b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/494/format/webp"></div>
+</div>
+<div>234_insert_1</div>
+</div>
+<p>当被插入的是3node节点时也是一样的，新数据会被“并入”到3node节点中形成4node节点。如下图：</p>
+<br>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/7030331-6657c5c28e239146.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/545/format/webp"></div>
+</div>
+<div>234_insert_2.png</div>
+</div>
+<p>当插入的是4node节点时就需要用到上面提到的“进位”操作了。“进位”的意思就和我们做加法运算时一样，当个位数据相加满十了这时候就要进位到十分位。2-3-4树也是一样的道理，当4node节点再“并入”节点时就会发生“进位”，分裂出一个节点然后插入到父节点当中。稍有不同的地方就是2-3-4树当中为了保证节点的位置是采取先分裂“进位”再插入的操作，具体怎么操作可以看下图：</p>
+<br>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/7030331-ca2faaac305a7d68.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div>
+</div>
+<div>234_insert_3.png</div>
+</div>
+<p>当然有一种情况是进位以后父节点也已经是4node了，这样就会再次进行一次进位，操作和之前是一样的。这里可以简单的把当前发生进位（被分裂出来）的节点当作是一个新加入的节点加入到父节点中，父节点（即将发生进位）分裂出来的节点也当作新加入的节点加入到祖父节点当中就可以了。简单的说进位可以理解成分裂和插入（至于怎么插入继续套用上面的逻辑），其实就是一种递归，这里就不再上图描述了。</p></div><br><br>作者：Nier_if<br>链接：https://www.jianshu.com/p/d13676299db3<br>来源：简书<br>简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</div></h3> ",
+            "assembleText":"2-3-4树的插入 2-3-4树的插入可以简单的理解成一种“加法进位”。例如当你按照普通二叉树的插入规则插入节点，最后定位到需要插入到一个指定的节点。普通二叉查找树可能是直接在节点下方添加一个子节点，而2-3-4树当中则会以一种“合并”的方式并入到当前节点当中。正因为这种“合并”操作使得2-3-4树在插入删除时保持实时平衡成为可能，因为每次插入2-3-4树的节点都会有一次判断的机会（可能时并入也可能是分裂（进位）），有了这一次操作就可以将暂时会导致破坏树平衡的新添加的节点“缓存”起来，当“缓存”节点到达一定的数量时就会分裂提升一级树的高度。这就是2-3-4树插入时能够达到实时平衡的核心思想。 下面结合图例来分析2-3-4树插入的具体逻辑（注：图例均选为234树的子树来做分析来减少复杂度）。首先当定位到插入的节点时一个2node（节点中只有一个数据并且拥有两个子节点）时，插入的数据会被“并入到”2node节点当中，然后形成一个3node节点。如下图： 234_insert_1 当被插入的是3node节点时也是一样的，新数据会被“并入”到3node节点中形成4node节点。如下图： 234_insert_2.png 当插入的是4node节点时就需要用到上面提到的“进位”操作了。“进位”的意思就和我们做加法运算时一样，当个位数据相加满十了这时候就要进位到十分位。2-3-4树也是一样的道理，当4node节点再“并入”节点时就会发生“进位”，分裂出一个节点然后插入到父节点当中。稍有不同的地方就是2-3-4树当中为了保证节点的位置是采取先分裂“进位”再插入的操作，具体怎么操作可以看下图： 234_insert_3.png 当然有一种情况是进位以后父节点也已经是4node了，这样就会再次进行一次进位，操作和之前是一样的。这里可以简单的把当前发生进位（被分裂出来）的节点当作是一个新加入的节点加入到父节点中，父节点（即将发生进位）分裂出来的节点也当作新加入的节点加入到祖父节点当中就可以了。简单的说进位可以理解成分裂和插入（至于怎么插入继续套用上面的逻辑），其实就是一种递归，这里就不再上图描述了。 作者：Nier_if 链接：https://www.jianshu.com/p/d13676299db3 来源：简书 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。",
+            "assembleScratchTime":"2019-03-24 23:18:58",
+            "facetId":559855,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.jianshu.com/p/d13676299db3",
+            "type":"text"
+        },
+        {
+            "assembleId":2866028,
+            "assembleContent":"<h2>2-3-4树的引入</h2><h3><div><div>
+<p>对红黑树有初步了解以后这里再来看看2-3-4树。为什么突然要引入2-3-4树？因为红黑树其实就是2-3-4树的一种体现。这里引入2-3-4树更多的是为了后面对红黑树做插入删除时的对比说明从而更好的理解红黑树的设计思想。如果不理解红黑树的设计思想，后面对红黑树的一系列操作变化都会成为公式形式的记忆，过一段时间就容易忘记。</p></div><br><br>作者：Nier_if<br>链接：https://www.jianshu.com/p/d13676299db3<br>来源：简书<br>简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</div></h3> ",
+            "assembleText":"2-3-4树的引入 对红黑树有初步了解以后这里再来看看2-3-4树。为什么突然要引入2-3-4树？因为红黑树其实就是2-3-4树的一种体现。这里引入2-3-4树更多的是为了后面对红黑树做插入删除时的对比说明从而更好的理解红黑树的设计思想。如果不理解红黑树的设计思想，后面对红黑树的一系列操作变化都会成为公式形式的记忆，过一段时间就容易忘记。 作者：Nier_if 链接：https://www.jianshu.com/p/d13676299db3 来源：简书 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。",
+            "assembleScratchTime":"2019-03-24 23:19:14",
+            "facetId":559855,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.jianshu.com/p/d13676299db3",
+            "type":"text"
+        },
+        {
+            "assembleId":2866029,
+            "assembleContent":"<h2>2-3-4树的定义<br></h2><div><div>
+<p>首先先简单的说明一下2-3-4树。2-3-4树是一种特殊的多叉查找树，它的每一个节点中可能包含一个两个或者三个数据。2-3-4树不论是在插入还是在删除时都能达到一种实时平衡的效果。下面给出2-3-4树中可能出现的节点类型：</p>
+<ul>
+<li>包含一个数据的节点称为2node</li>
+<li>包含两个数据的节点称为3node</li>
+<li>包含三个数据的节点称为4node</li>
+</ul>
+<p>另外2-3-4树任一节点到每个叶子的所有路径包含的节点数都相同（深度相同）。<br>
+这里给出一个2-3-4树的示例图，里面包含了2-3-4树中出现的所有节点形式。</p>
+<br>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/7030331-8e6ceaa3ac165476.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/651/format/webp"></div>
+</div>
+<div>2-3-4Tree.png</div></div></div><br><br>作者：Nier_if<br>链接：https://www.jianshu.com/p/d13676299db3<br>来源：简书<br>简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</div> ",
+            "assembleText":"2-3-4树的定义 首先先简单的说明一下2-3-4树。2-3-4树是一种特殊的多叉查找树，它的每一个节点中可能包含一个两个或者三个数据。2-3-4树不论是在插入还是在删除时都能达到一种实时平衡的效果。下面给出2-3-4树中可能出现的节点类型： 包含一个数据的节点称为2node 包含两个数据的节点称为3node 包含三个数据的节点称为4node 另外2-3-4树任一节点到每个叶子的所有路径包含的节点数都相同（深度相同）。 这里给出一个2-3-4树的示例图，里面包含了2-3-4树中出现的所有节点形式。 2-3-4Tree.png 作者：Nier_if 链接：https://www.jianshu.com/p/d13676299db3 来源：简书 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。",
+            "assembleScratchTime":"2019-03-24 23:19:30",
+            "facetId":559855,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.jianshu.com/p/d13676299db3",
+            "type":"text"
+        },
+        {
+            "assembleId":2866030,
+            "assembleContent":"<h3>2-3-4树的删除</h3><h2><div><div>
+<p>2-3-4树的插入可以理解为“进位”，那删除就可以理解为“借位”，就比如说当17减8时各位数“减不动”了，这个时候就需要向十分位去“借一位”2-3-4树的删除也是这个道理，当节点自己能。</p>
+<p>这里3node、4node的删除就不多做分析，和添加时一样，直接拿掉需要删除的数据就可以了。<br>
+这里主要分析一下2node删除时的操作逻辑。</p>
+<p>首先第一种情况是向兄弟节点“借位”。有兄弟节点有多余的数据先借过来保证树结构不变，不然这边删除一个节点不就多了一个缺口了，因此这里需要先找兄弟节点借。怎么样的兄弟节点才能算有多余节点的兄弟节点呢？就是一个节点内有多个数据的也就是3node或者4node；借过来以后就可以顺利的删除需要删除的节点而不留“缺口”了。这里简单的说就是合并重分配最后移除。具体操作如下图：</p>
+<br>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/7030331-05e0a8e5d487a9ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div>
+</div>
+<div>2-3-4Tree_Delete1.png</div>
+</div>
+<p>下面分析另外一种情况就是当兄弟节点没有可以借用的数据了，这个时候就需要找父亲节点去借了。借完以后父亲节点自然就从原来的3node降为2node了，就如同个位不够问十分位借，借完以后十分位减一。具体操作如下图：</p>
+<br>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/7030331-bd1196cdfab7a0f7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/895/format/webp"></div>
+</div>
+<div>2-3-4Tree_Delete2.png</div>
+</div>
+<p>上面讨论的是能够向父亲节点借到数据的情况，那如果借不到那就会向父亲节点的兄弟节点（叔叔节点）借，这个时候你可以简单的理解成当前父亲节点需要删除，然后回到刚刚第一种情况来操作——兄弟能借借兄弟节点的，借不到就问父节点借。这里也是一种递归思想，具体流程图我就不放了，有兴趣可以自己动手画画就很清晰了。</p>
+<p>最后可能存在一种极端情况就是递归到根节点仍然借不到数据，这个时候就需要将根节点和两个子节点合并成为一个4node，然后继续做删除借位操作。具体操作如下图：</p>
+<br>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/7030331-c4741634d5810775.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div>
+</div>
+<div>2-3-4Tree_Delete3.png</div>
+</div>
+<p>这里只分析了两层，其实多层的情况也是一样的。</p>
+<p>删除操作相比添加操作稍微有一些复杂，这里做一个小结：删除的核心思想其实就是和减法运算是一样的，当个位不够用时向十位借，十位也不够用的时候就向百位借，就这样循环递归。只不过2-3-4树中的删除操作在借位时多加上一步检查兄弟节点是否有可借用的数据这一步，本质上是一样的。</p></div><br><br>作者：Nier_if<br>链接：https://www.jianshu.com/p/d13676299db3<br>来源：简书<br>简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</div></h2> ",
+            "assembleText":"2-3-4树的删除 2-3-4树的插入可以理解为“进位”，那删除就可以理解为“借位”，就比如说当17减8时各位数“减不动”了，这个时候就需要向十分位去“借一位”2-3-4树的删除也是这个道理，当节点自己能。 这里3node、4node的删除就不多做分析，和添加时一样，直接拿掉需要删除的数据就可以了。 这里主要分析一下2node删除时的操作逻辑。 首先第一种情况是向兄弟节点“借位”。有兄弟节点有多余的数据先借过来保证树结构不变，不然这边删除一个节点不就多了一个缺口了，因此这里需要先找兄弟节点借。怎么样的兄弟节点才能算有多余节点的兄弟节点呢？就是一个节点内有多个数据的也就是3node或者4node；借过来以后就可以顺利的删除需要删除的节点而不留“缺口”了。这里简单的说就是合并重分配最后移除。具体操作如下图： 2-3-4Tree_Delete1.png 下面分析另外一种情况就是当兄弟节点没有可以借用的数据了，这个时候就需要找父亲节点去借了。借完以后父亲节点自然就从原来的3node降为2node了，就如同个位不够问十分位借，借完以后十分位减一。具体操作如下图： 2-3-4Tree_Delete2.png 上面讨论的是能够向父亲节点借到数据的情况，那如果借不到那就会向父亲节点的兄弟节点（叔叔节点）借，这个时候你可以简单的理解成当前父亲节点需要删除，然后回到刚刚第一种情况来操作——兄弟能借借兄弟节点的，借不到就问父节点借。这里也是一种递归思想，具体流程图我就不放了，有兴趣可以自己动手画画就很清晰了。 最后可能存在一种极端情况就是递归到根节点仍然借不到数据，这个时候就需要将根节点和两个子节点合并成为一个4node，然后继续做删除借位操作。具体操作如下图： 2-3-4Tree_Delete3.png 这里只分析了两层，其实多层的情况也是一样的。 删除操作相比添加操作稍微有一些复杂，这里做一个小结：删除的核心思想其实就是和减法运算是一样的，当个位不够用时向十位借，十位也不够用的时候就向百位借，就这样循环递归。只不过2-3-4树中的删除操作在借位时多加上一步检查兄弟节点是否有可借用的数据这一步，本质上是一样的。 作者：Nier_if 链接：https://www.jianshu.com/p/d13676299db3 来源：简书 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。",
+            "assembleScratchTime":"2019-03-24 23:19:43",
+            "facetId":559855,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.jianshu.com/p/d13676299db3",
+            "type":"text"
+        },
+        {
+            "assembleId":2866031,
+            "assembleContent":"<h2>红黑树和2-3-4树之间的联系</h2><h3><p>红黑树通过添加颜色这一属性让二叉树拥有了2-3-4树的结构特性，红色节点向上连接的线可以看作是“红线”，而由“红线”相连的多个节点即为一个2-3-4树中的“多node”。因此红黑树也将拥有2-3-4树的“缓存”能力来保证实时的平衡。</p></h3> ",
+            "assembleText":"红黑树和2-3-4树之间的联系 红黑树通过添加颜色这一属性让二叉树拥有了2-3-4树的结构特性，红色节点向上连接的线可以看作是“红线”，而由“红线”相连的多个节点即为一个2-3-4树中的“多node”。因此红黑树也将拥有2-3-4树的“缓存”能力来保证实时的平衡。",
+            "assembleScratchTime":"2019-03-24 23:19:52",
+            "facetId":559855,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.jianshu.com/p/d13676299db3",
+            "type":"text"
+        },
+        {
+            "assembleId":2866032,
+            "assembleContent":"<h3>红黑树转化为2-3-4树</h3><h2><div><div>
+<p>红黑树转化为2-3-4树的规则就是通过颜色。</p>
+<ul>
+<li>红色节点向上的连接线为红线</li>
+<li>通过红线连接起来的节点为n-node（n可以是2或者3）</li>
+</ul>
+<p>这么形容可能有一点抽象，这里我就把上图红黑树示例中一个图为例子将它转化为2-3-4树：</p>
+<br>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/7030331-70c91af85c103a85.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp"></div>
+</div>
+<div>RBTree_2-3-4Tree.png</div>
+</div><br>
+<p>（这里图拉长就很小了，所以放在两行展示清楚一点。这里面总共包含了三步转换）</p>
+
+<p>好了到了这里红黑树和2-3-4树之间的联系已经很明显了吧。</p>
+<p>总结一下：红黑树经过转换可以看作是一个2-3-4树，而这个转换的关键就是找到“红线”。从2-3-4树的角度看，2-3-4树因为有着节点“缓存”的能力因此可以在插入删除节点时保持树的平衡。而红黑树作为2-3-4树的另一种展现形式自然也拥有着插入删除节点时对树进行调整至平衡的方法。</p></div><br><br>作者：Nier_if<br>链接：https://www.jianshu.com/p/d13676299db3<br>来源：简书<br>简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</div></h2> ",
+            "assembleText":"红黑树转化为2-3-4树 红黑树转化为2-3-4树的规则就是通过颜色。 红色节点向上的连接线为红线 通过红线连接起来的节点为n-node（n可以是2或者3） 这么形容可能有一点抽象，这里我就把上图红黑树示例中一个图为例子将它转化为2-3-4树： RBTree_2-3-4Tree.png （这里图拉长就很小了，所以放在两行展示清楚一点。这里面总共包含了三步转换） 好了到了这里红黑树和2-3-4树之间的联系已经很明显了吧。 总结一下：红黑树经过转换可以看作是一个2-3-4树，而这个转换的关键就是找到“红线”。从2-3-4树的角度看，2-3-4树因为有着节点“缓存”的能力因此可以在插入删除节点时保持树的平衡。而红黑树作为2-3-4树的另一种展现形式自然也拥有着插入删除节点时对树进行调整至平衡的方法。 作者：Nier_if 链接：https://www.jianshu.com/p/d13676299db3 来源：简书 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。",
+            "assembleScratchTime":"2019-03-24 23:20:05",
+            "facetId":559855,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.jianshu.com/p/d13676299db3",
+            "type":"text"
+        },
+        {
+            "assembleId":2866038,
+            "assembleContent":"<div><ul><li>有了 2-3 树的讲解，2-3-4 树就很好理解了，它其实就是 2-3 树的概念扩展，包括了 4 节点的使用。</li>
+<li>一个 4 节点包含小中大三个元素和四个孩子(或没有孩子)，一个 4 节点要么没有孩子，要么具有 4 个孩子。</li>
+<li>如果某个 4 节点有孩子的话，左子树包含小于最小元素的元素；第二子树包含大于最小元素，小于第二元素的元素；第三子树包含大于第二元素，小于最大元素的元素；右子树包含大于最大元素的元素</li></ul></div><br><br>作者：cb_guo<br>链接：https://www.jianshu.com/p/174a815b1495<br>来源：简书<br>简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。 ",
+            "assembleText":"有了 2-3 树的讲解，2-3-4 树就很好理解了，它其实就是 2-3 树的概念扩展，包括了 4 节点的使用。 一个 4 节点包含小中大三个元素和四个孩子(或没有孩子)，一个 4 节点要么没有孩子，要么具有 4 个孩子。 如果某个 4 节点有孩子的话，左子树包含小于最小元素的元素；第二子树包含大于最小元素，小于第二元素的元素；第三子树包含大于第二元素，小于最大元素的元素；右子树包含大于最大元素的元素 作者：cb_guo 链接：https://www.jianshu.com/p/174a815b1495 来源：简书 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。",
+            "assembleScratchTime":"2019-03-24 23:22:46",
+            "facetId":559855,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.jianshu.com/p/d13676299db3",
+            "type":"text"
+        },
+        {
+            "assembleId":2852667,
+            "assembleContent":"<div label-module="para">要将项I插入2-3树，首先定位查找I的操作将终止的叶子。将新项I插入叶子，若当前叶子包含两个项目，则任务完成。但若叶子包含三个项，则必须将其分为两个节点n1和n2。将最小项S放在n1，将最大项放在n2，将中间项M上移到叶子的双亲。结果，节点n1和n2成为双亲的孩子。若双亲只有三个孩子，并包含两个项目，则任务完成。但是，若双亲当前有四个孩子，并包含有三项，则需要拆分。</div><div label-module="para">上述叶子操作的过程，拆分包含三个项的内部节点n，但必须考虑n的四个孩子。如图5所示，将n拆分为n1和n2，将n的最小项S放到n1，将n左面的两个孩子关联到n1。将n的最大项L放入n2，将n右边的两个孩子关联到n2，将n的中间项M上移到n的双亲。</div><div label-module="para">此后，拆分节点和将项上移到双亲的过程递归地进行，知道遇到这样一个节点：再插入前，它只有一个项，而在接纳新项后，只有两个项。注意，在前面的插入序列中，树的高度保持不变，一直是原始3 。一般情况下，只要在从根到插入新项的叶子的路径上，至少有一个节点只包含一个项，则插入将不会增加树的高度。因此，与基本二叉查找树的策略相比，2-3树的插入策略推迟了树的高度的增长。</div><div label-module="para">当2-3树的高度增长时，则从项的顶部向下完成。如果从根到插入新项的叶子的路径上，每个节点包含两个项，则2-3树的高度将增长。在这种情况下，拆分节点以及将项上移到节点双亲的递归过程最终到达根r。此时，向其他任何内部节点一样，必须为r拆分为r1和r2。不过，必须新建一个包含r的中间项的节点，是这个节点成为n1和n2的双亲的节点。于是，新节点成为树的新项。</div> ",
+            "assembleText":"要将项I插入2-3树，首先定位查找I的操作将终止的叶子。将新项I插入叶子，若当前叶子包含两个项目，则任务完成。但若叶子包含三个项，则必须将其分为两个节点n1和n2。将最小项S放在n1，将最大项放在n2，将中间项M上移到叶子的双亲。结果，节点n1和n2成为双亲的孩子。若双亲只有三个孩子，并包含两个项目，则任务完成。但是，若双亲当前有四个孩子，并包含有三项，则需要拆分。 上述叶子操作的过程，拆分包含三个项的内部节点n，但必须考虑n的四个孩子。如图5所示，将n拆分为n1和n2，将n的最小项S放到n1，将n左面的两个孩子关联到n1。将n的最大项L放入n2，将n右边的两个孩子关联到n2，将n的中间项M上移到n的双亲。 此后，拆分节点和将项上移到双亲的过程递归地进行，知道遇到这样一个节点：再插入前，它只有一个项，而在接纳新项后，只有两个项。注意，在前面的插入序列中，树的高度保持不变，一直是原始3 。一般情况下，只要在从根到插入新项的叶子的路径上，至少有一个节点只包含一个项，则插入将不会增加树的高度。因此，与基本二叉查找树的策略相比，2-3树的插入策略推迟了树的高度的增长。 当2-3树的高度增长时，则从项的顶部向下完成。如果从根到插入新项的叶子的路径上，每个节点包含两个项，则2-3树的高度将增长。在这种情况下，拆分节点以及将项上移到节点双亲的递归过程最终到达根r。此时，向其他任何内部节点一样，必须为r拆分为r1和r2。不过，必须新建一个包含r的中间项的节点，是这个节点成为n1和n2的双亲的节点。于是，新节点成为树的新项。",
+            "assembleScratchTime":"2019-02-26 16:21:27",
+            "facetId":558964,
+            "sourceId":11,
+            "domainId":413,
+            "url":"https://baike.baidu.com/item/2-3%E6%A0%91/3484656",
+            "type":"text"
+        },
+        {
+            "assembleId":2852669,
+            "assembleContent":"<div label-module="para"><div label-module="para"><pre><code>retrieveItem(in ttTree: TwoThreeTree,in searchKey :keyType,<br>out treeItem:TTreeItemType):boollean<br>//retrieve into treeItem from a noneempty 2-3 tree ttTree<br>//the item whose search key equals searchkey,the operation fails if no<br>//such item exists ,the function returns true if the item is found ,<br>//false otherwise<br>{<br>if(searchKey is in ttTree's root node r)<br>{<br>treeItem =the data portion of r<br>return true;<br>}<br>else if(r is a leaf)<br>{<br>return false;<br>}<br>else if(r has two data items)<br>{<br>if(searchKey<smaller search key of r)<br>return retrieve(r's left subtree,searchkey,treeitem)<br>else if(searchKey<larger search key of r)<br>return retrieve(r's middle subtree ,searchKey,<br>treeItem);<br>else<br>return retrieve(r's right subtree,searchKey,<br>treeItem)<br>}<br>else<br>{<br>if(searchKey<r's search key)<br>return retrieve(r's left subtree,searchKey,treeItem);<br>else<br>return retrieve(r's middle subtree,searchKey,treeItem);<br>}<br>}</code></pre><p><br></p></div></div> ",
+            "assembleText":"retrieveItem(in ttTree: TwoThreeTree,in searchKey :keyType, out treeItem:TTreeItemType):boollean //retrieve into treeItem from a noneempty 2-3 tree ttTree //the item whose search key equals searchkey,the operation fails if no //such item exists ,the function returns true if the item is found , //false otherwise { if(searchKey is in ttTree's root node r) { treeItem =the data portion of r return true; } else if(r is a leaf) { return false; } else if(r has two data items) { if(searchKey<smaller search key of r) return retrieve(r's left subtree,searchkey,treeitem) else if(searchKey<larger search key of r) return retrieve(r's middle subtree ,searchKey, treeItem); else return retrieve(r's right subtree,searchKey, treeItem) } else { if(searchKey<r's search key) return retrieve(r's left subtree,searchKey,treeItem); else return retrieve(r's middle subtree,searchKey,treeItem); } }",
+            "assembleScratchTime":"2019-02-26 16:21:48",
+            "facetId":558964,
+            "sourceId":11,
+            "domainId":413,
+            "url":"https://baike.baidu.com/item/2-3%E6%A0%91/3484656",
+            "type":"text"
+        },
+        {
+            "assembleId":2852677,
+            "assembleContent":"<p>永远都是在叶节点处插入新节点，当3-node变为4-node时，需要拆分节点，此时树高就有可能增加。</p><p><img src="https://images2017.cnblogs.com/blog/1205485/201707/1205485-20170727161929227-2106429003.png" alt=""></p> ",
+            "assembleText":"永远都是在叶节点处插入新节点，当3-node变为4-node时，需要拆分节点，此时树高就有可能增加。",
+            "assembleScratchTime":"2019-02-26 16:26:25",
+            "facetId":558964,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.cnblogs.com/holoyong/p/7245957.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863035,
+            "assembleContent":"<p>要将项I插入2-3树，首先定位查找I的操作将终止的叶子。将新项I插入叶子，若当前叶子包含两个项目，则任务完成。但若叶子包含三个项，则必须将其分为两个节点n1和n2。将<a target="_blank" href="https://baike.sogou.com/lemma/ShowInnerLink.htm?lemmaId=59384097&ss_c=ssc.citiao.link">最小项</a>S放在n1，将<a target="_blank" href="https://baike.sogou.com/lemma/ShowInnerLink.htm?lemmaId=73929135&ss_c=ssc.citiao.link">最大项</a>放在n2，将中间项M上移到叶子的双亲。结果，节点n1和n2成为双亲的孩子。若双亲只有三个孩子，并包含两个项目，则任务完成。但是，若双亲当前有四个孩子，并包含有三项，则需要拆分。</p><p>上述叶子操作的过程，拆分包含三个项的内部节点n，但必须考虑n的四个孩子。如图5所示，将n拆分为n1和n2，将n的最小项S放到n1，将n左面的两个孩子关联到n1。将n的最大项L放入n2，将n右边的两个孩子关联到n2，将n的中间项M上移到n的双亲。</p><p>此后，拆分节点和将项上移到双亲的过程递归地进行，知道遇到这样一个节点：再插入前，它只有一个项，而在接纳新项后，只有两个项。注意，在前面的插入序列中，树的高度保持不变，一直是原始3 。一般情况下，只要在从根到插入新项的叶子的路径上，至少有一个节点只包含一个项，则插入将不会增加树的高度。因此，与基本<a target="_blank" href="https://baike.sogou.com/lemma/ShowInnerLink.htm?lemmaId=5592449&ss_c=ssc.citiao.link">二叉查找树</a>的策略相比，2-3树的插入策略推迟了树的高度的增长。</p><p>当2-3树的高度增长时，则从项的顶部向下完成。如果从根到插入新项的叶子的路径上，每个节点包含两个项，则2-3树的高度将增长。在这种情况下，拆分节点以及将项上移到节点双亲的<a target="_blank" href="https://baike.sogou.com/lemma/ShowInnerLink.htm?lemmaId=83192115&ss_c=ssc.citiao.link">递归过程</a>最终到达根r。此时，向其他任何内部节点一样，必须为r拆分为r1和r2。不过，必须新建一个包含r的中间项的节点，是这个节点成为n1和n2的双亲的节点。于是，新节点成为树的新项。</p> ",
+            "assembleText":"要将项I插入2-3树，首先定位查找I的操作将终止的叶子。将新项I插入叶子，若当前叶子包含两个项目，则任务完成。但若叶子包含三个项，则必须将其分为两个节点n1和n2。将最小项S放在n1，将最大项放在n2，将中间项M上移到叶子的双亲。结果，节点n1和n2成为双亲的孩子。若双亲只有三个孩子，并包含两个项目，则任务完成。但是，若双亲当前有四个孩子，并包含有三项，则需要拆分。 上述叶子操作的过程，拆分包含三个项的内部节点n，但必须考虑n的四个孩子。如图5所示，将n拆分为n1和n2，将n的最小项S放到n1，将n左面的两个孩子关联到n1。将n的最大项L放入n2，将n右边的两个孩子关联到n2，将n的中间项M上移到n的双亲。 此后，拆分节点和将项上移到双亲的过程递归地进行，知道遇到这样一个节点：再插入前，它只有一个项，而在接纳新项后，只有两个项。注意，在前面的插入序列中，树的高度保持不变，一直是原始3 。一般情况下，只要在从根到插入新项的叶子的路径上，至少有一个节点只包含一个项，则插入将不会增加树的高度。因此，与基本二叉查找树的策略相比，2-3树的插入策略推迟了树的高度的增长。 当2-3树的高度增长时，则从项的顶部向下完成。如果从根到插入新项的叶子的路径上，每个节点包含两个项，则2-3树的高度将增长。在这种情况下，拆分节点以及将项上移到节点双亲的递归过程最终到达根r。此时，向其他任何内部节点一样，必须为r拆分为r1和r2。不过，必须新建一个包含r的中间项的节点，是这个节点成为n1和n2的双亲的节点。于是，新节点成为树的新项。",
+            "assembleScratchTime":"2019-03-18 15:56:58",
+            "facetId":558964,
+            "sourceId":12,
+            "domainId":413,
+            "url":"https://www.sogou.com/web?query=2-3%E6%A0%91&ie=utf8&_ast=1552895488&_asf=null&w=01029901&cid=&cid=&s_from=result_up&sut=2577&sst0=1552895503986&lkt=2%2C1552895502302%2C1552895502605&sugsuv=00FA17846F14E20E5AFF96C7ADF09178&sugtime=1552895503986",
+            "type":"text"
+        },
+        {
+            "assembleId":2863036,
+            "assembleContent":"<pre><code>retrieveItem(in ttTree: TwoThreeTree,in searchKey :keyType,<br><br>out treeItem:TTreeItemType):boollean<br><br>//retrieve into treeItem from a noneempty 2-3 tree ttTree<br><br>//the item whose search key equals searchkey,the operation fails if no<br><br>//such item exists ,the function returns true if the item is found ,<br><br>//false otherwise<br><br>{<br><br>if(searchKey is in ttTree's root node r)<br><br>{<br><br>treeItem =the data portion of r<br><br>return true;<br><br>}<br><br>else if(r is a leaf)<br><br>{<br><br>return false;<br><br>}<br><br>else if(r has two data items)<br><br>{<br><br>if(searchKey<smaller search key of r)<br><br>return retrieve(r's left subtree,searchkey,treeitem)<br><br>else if(searchKey<larger search key of r)<br><br>return retrieve(r's middle subtree ,searchKey,<br><br>treeItem);<br><br>else<br><br>return retrieve(r's right subtree,searchKey,<br><br>treeItem)<br><br>}<br><br>else<br><br>{<br><br>if(searchKey<r's search key)<br><br>return retrieve(r's left subtree,searchKey,treeItem);<br><br>else<br><br>return retrieve(r's middle subtree,searchKey,treeItem);<br><br>}<br><br>}</code></pre><p><br></p> ",
+            "assembleText":"retrieveItem(in ttTree: TwoThreeTree,in searchKey :keyType, out treeItem:TTreeItemType):boollean //retrieve into treeItem from a noneempty 2-3 tree ttTree //the item whose search key equals searchkey,the operation fails if no //such item exists ,the function returns true if the item is found , //false otherwise { if(searchKey is in ttTree's root node r) { treeItem =the data portion of r return true; } else if(r is a leaf) { return false; } else if(r has two data items) { if(searchKey<smaller search key of r) return retrieve(r's left subtree,searchkey,treeitem) else if(searchKey<larger search key of r) return retrieve(r's middle subtree ,searchKey, treeItem); else return retrieve(r's right subtree,searchKey, treeItem) } else { if(searchKey<r's search key) return retrieve(r's left subtree,searchKey,treeItem); else return retrieve(r's middle subtree,searchKey,treeItem); } }",
+            "assembleScratchTime":"2019-03-18 15:57:19",
+            "facetId":558964,
+            "sourceId":12,
+            "domainId":413,
+            "url":"https://www.sogou.com/web?query=2-3%E6%A0%91&ie=utf8&_ast=1552895488&_asf=null&w=01029901&cid=&cid=&s_from=result_up&sut=2577&sst0=1552895503986&lkt=2%2C1552895502302%2C1552895502605&sugsuv=00FA17846F14E20E5AFF96C7ADF09178&sugtime=1552895503986",
+            "type":"text"
+        },
+        {
+            "assembleId":2863047,
+            "assembleContent":"<p>要在2-3树中插入一个新结点，我们可以和二叉查找树一样先进行一次未命中的查找，然后把新结点挂在树的底部。但这样的话树无法保持完美平衡性。我们使用2-3树的主要原因就在于它能够在插入之后继续保持平衡。<br><br>如果未命中的查找结束于一个2-结点，我们只要把这个2-结点替换为一个3-结点，将要插入的键保存在其中即可。如果未命中的查找结束于一个3-结点，事情就要麻烦一些。<br><br></p> ",
+            "assembleText":"要在2-3树中插入一个新结点，我们可以和二叉查找树一样先进行一次未命中的查找，然后把新结点挂在树的底部。但这样的话树无法保持完美平衡性。我们使用2-3树的主要原因就在于它能够在插入之后继续保持平衡。 如果未命中的查找结束于一个2-结点，我们只要把这个2-结点替换为一个3-结点，将要插入的键保存在其中即可。如果未命中的查找结束于一个3-结点，事情就要麻烦一些。",
+            "assembleScratchTime":"2019-03-18 16:04:27",
+            "facetId":558964,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/fei33423/article/details/79132930",
+            "type":"text"
+        },
+        {
+            "assembleId":2863048,
+            "assembleContent":"<p>先考虑最简单的例子：只有一个3-结点的树，向其插入一个新键。<br><br>这棵树唯一的结点中已经没有可插入的空间了。我们又不能把新键插在其空结点上（破坏了完美平衡）。为了将新键插入，我们先临时将新键存入该结点中，使之成为一个4-结点。创建一个4-结点很方便，因为很容易将它转换为一颗由3个2-结点组成的2-3树（如图所示），这棵树既是一颗含有3个结点的二叉查找树，同时也是一颗完美平衡的2-3树，其中所有空链接到根结点的距离都相等。<br><br><br><img src="https://img-blog.csdn.net/20140517141709609?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveWFuZ195dWxlaQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">  <br> <br><br>向一个父结点为2-结点的3-结点中插入新键<br><br>假设未命中的查找结束于一个3-结点，而它的父结点是一个2-结点。在这种情况下我们需要在维持树的完美平衡的前提下为新键腾出空间。<br><br>我们先像刚才一样构造一个临时的4-结点并将其分解，但此时我们不会为中键创建一个新结点，而是将其移动至原来的父结点中。（如图所示）<br><img src="https://img-blog.csdn.net/20140517141807656?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveWFuZ195dWxlaQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">  <br><br><br>这次转换也并不影响（完美平衡的）2-3树的主要性质。树仍然是有序的，因为中键被移动到父结点中去了，树仍然是完美平衡的，插入后所有的空链接到根结点的距离仍然相同。<br><br></p> ",
+            "assembleText":"先考虑最简单的例子：只有一个3-结点的树，向其插入一个新键。 这棵树唯一的结点中已经没有可插入的空间了。我们又不能把新键插在其空结点上（破坏了完美平衡）。为了将新键插入，我们先临时将新键存入该结点中，使之成为一个4-结点。创建一个4-结点很方便，因为很容易将它转换为一颗由3个2-结点组成的2-3树（如图所示），这棵树既是一颗含有3个结点的二叉查找树，同时也是一颗完美平衡的2-3树，其中所有空链接到根结点的距离都相等。      向一个父结点为2-结点的3-结点中插入新键 假设未命中的查找结束于一个3-结点，而它的父结点是一个2-结点。在这种情况下我们需要在维持树的完美平衡的前提下为新键腾出空间。 我们先像刚才一样构造一个临时的4-结点并将其分解，但此时我们不会为中键创建一个新结点，而是将其移动至原来的父结点中。（如图所示）    这次转换也并不影响（完美平衡的）2-3树的主要性质。树仍然是有序的，因为中键被移动到父结点中去了，树仍然是完美平衡的，插入后所有的空链接到根结点的距离仍然相同。",
+            "assembleScratchTime":"2019-03-18 16:05:19",
+            "facetId":558964,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/fei33423/article/details/79132930",
+            "type":"text"
+        },
+        {
+            "assembleId":2863049,
+            "assembleContent":"<p>向一个父结点为3-结点的3-结点中插入新键<br><br>假设未命中的查找结束于一个3-结点，而它的父结点是一个3-结点。<br><br>我们再次和刚才一样构造一个临时的4-结点并分解它，然后将它的中键插入它的父结点中。但父结点也是一个3-结点，因此我们再用这个中键构造一个新的临时4-结点，然后在这个结点上进行相同的变换，即分解这个父结点并将它的中键插入到它的父结点中去。<br><br>我们就这样一直向上不断分解临时的4-结点并将中键插入更高的父结点，直至遇到一个2-结点并将它替换为一个不需要继续分解的3-结点，或者是到达3-结点的根。<br><img src="https://img-blog.csdn.net/20140517141942296?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveWFuZ195dWxlaQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" style="max-width:50%;">  <br><br><br></p> ",
+            "assembleText":"向一个父结点为3-结点的3-结点中插入新键 假设未命中的查找结束于一个3-结点，而它的父结点是一个3-结点。 我们再次和刚才一样构造一个临时的4-结点并分解它，然后将它的中键插入它的父结点中。但父结点也是一个3-结点，因此我们再用这个中键构造一个新的临时4-结点，然后在这个结点上进行相同的变换，即分解这个父结点并将它的中键插入到它的父结点中去。 我们就这样一直向上不断分解临时的4-结点并将中键插入更高的父结点，直至遇到一个2-结点并将它替换为一个不需要继续分解的3-结点，或者是到达3-结点的根。   ",
+            "assembleScratchTime":"2019-03-18 16:05:49",
+            "facetId":558964,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/fei33423/article/details/79132930",
+            "type":"text"
+        },
+        {
+            "assembleId":2863050,
+            "assembleContent":"<p><strong>先找插入结点，若结点有空(即2-结点)，则直接插入。如结点没空(即3-结点)，则插入使其临时容纳这个元素，然后分裂此结点，把中间元素移到其父结点中。对父结点亦如此处理。</strong>（中键一直往上移，直到找到空位，在此过程中没有空位就先搞个临时的，再分裂。）  <br></p> ",
+            "assembleText":"先找插入结点，若结点有空(即2-结点)，则直接插入。如结点没空(即3-结点)，则插入使其临时容纳这个元素，然后分裂此结点，把中间元素移到其父结点中。对父结点亦如此处理。（中键一直往上移，直到找到空位，在此过程中没有空位就先搞个临时的，再分裂。）  ",
+            "assembleScratchTime":"2019-03-18 16:06:07",
+            "facetId":558964,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/fei33423/article/details/79132930",
+            "type":"text"
+        },
+        {
+            "assembleId":2863051,
+            "assembleContent":"<p>★2-3树插入算法的根本在于这些变换都是局部的：除了相关的结点和链接之外不必修改或者检查树的其他部分。每次变换中，变更的链接数量不会超过一个很小的常数。所有局部变换都不会影响整棵树的有序性和平衡性。  <br></p> ",
+            "assembleText":"★2-3树插入算法的根本在于这些变换都是局部的：除了相关的结点和链接之外不必修改或者检查树的其他部分。每次变换中，变更的链接数量不会超过一个很小的常数。所有局部变换都不会影响整棵树的有序性和平衡性。  ",
+            "assembleScratchTime":"2019-03-18 16:06:15",
+            "facetId":558964,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/fei33423/article/details/79132930",
+            "type":"text"
+        },
+        {
+            "assembleId":2863073,
+            "assembleContent":"<h2>往一个2-node节点插入</h2><p>往2-3树中插入元素和往二叉查找树中插入元素一样，首先要进行查找，然后将节点挂到未找到的节点上。2-3树之所以能够保证在最差的情况下的效率的原因在于其插入之后仍然能够保持平衡状态。如果查找后未找到的节点是一个2-node节点，那么很容易，我们只需要将新的元素放到这个2-node节点里面使其变成一个3-node节点即可。但是如果查找的节点结束于一个3-node节点，那么可能有点麻烦。</p><p><a href="https://images0.cnblogs.com/blog/94031/201403/252248534044960.png"><img title="insert new node into 2-node" border="0" alt="insert new node into 2-node" src="https://images0.cnblogs.com/blog/94031/201403/252248546708473.png" width="431" height="378"></a></p> ",
+            "assembleText":"往一个2-node节点插入 往2-3树中插入元素和往二叉查找树中插入元素一样，首先要进行查找，然后将节点挂到未找到的节点上。2-3树之所以能够保证在最差的情况下的效率的原因在于其插入之后仍然能够保持平衡状态。如果查找后未找到的节点是一个2-node节点，那么很容易，我们只需要将新的元素放到这个2-node节点里面使其变成一个3-node节点即可。但是如果查找的节点结束于一个3-node节点，那么可能有点麻烦。",
+            "assembleScratchTime":"2019-03-18 16:11:19",
+            "facetId":558964,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863074,
+            "assembleContent":"<h2>往一个3-node节点插入</h2><p>往一个3-node节点插入一个新的节点可能会遇到很多种不同的情况，下面首先从一个最简单的只包含一个3-node节点的树开始讨论。</p><p><strong>只包含一个3-node</strong><strong>节点</strong></p><p><strong><a href="https://images0.cnblogs.com/blog/94031/201403/252248561705215.png"><img title="Insert into a single 3-node" border="0" alt="Insert into a single 3-node" src="https://images0.cnblogs.com/blog/94031/201403/252248589202242.png" width="366" height="314"></a></strong></p><p> </p><p> </p><p>如上图，假设2-3树只包含一个3-node节点，这个节点有两个key，没有空间来插入第三个key了，最自然的方式是我们假设这个节点能存放三个元素，暂时使其变成一个4-node节点，同时他包含四个子节点。然后，我们将这个4-node节点的中间元素提升，左边的节点作为其左节点，右边的元素作为其右节点。插入完成，变为平衡2-3查找树，树的高度从0变为1。</p> ",
+            "assembleText":"往一个3-node节点插入 往一个3-node节点插入一个新的节点可能会遇到很多种不同的情况，下面首先从一个最简单的只包含一个3-node节点的树开始讨论。 只包含一个3-node节点     如上图，假设2-3树只包含一个3-node节点，这个节点有两个key，没有空间来插入第三个key了，最自然的方式是我们假设这个节点能存放三个元素，暂时使其变成一个4-node节点，同时他包含四个子节点。然后，我们将这个4-node节点的中间元素提升，左边的节点作为其左节点，右边的元素作为其右节点。插入完成，变为平衡2-3查找树，树的高度从0变为1。",
+            "assembleScratchTime":"2019-03-18 16:11:31",
+            "facetId":558964,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863075,
+            "assembleContent":"<p><strong>节点是3-node</strong><strong>，父节点是2-node</strong></p><p>和第一种情况一样，我们也可以将新的元素插入到3-node节点中，使其成为一个临时的4-node节点，然后，将该节点中的中间元素提升到父节点即2-node节点中，使其父节点成为一个3-node节点，然后将左右节点分别挂在这个3-node节点的恰当位置。操作如下图：</p><p><a href="https://images0.cnblogs.com/blog/94031/201403/252248597641585.png"><img title="Insert into a 3-node whose parent is a 2-node" border="0" alt="Insert into a 3-node whose parent is a 2-node" src="https://images0.cnblogs.com/blog/94031/201403/252249008268925.png" width="409" height="498"></a></p> ",
+            "assembleText":"节点是3-node，父节点是2-node 和第一种情况一样，我们也可以将新的元素插入到3-node节点中，使其成为一个临时的4-node节点，然后，将该节点中的中间元素提升到父节点即2-node节点中，使其父节点成为一个3-node节点，然后将左右节点分别挂在这个3-node节点的恰当位置。操作如下图：",
+            "assembleScratchTime":"2019-03-18 16:11:42",
+            "facetId":558964,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863076,
+            "assembleContent":"<p><strong>节点是3-node</strong><strong>，父节点也是3-node</strong></p><p>当我们插入的节点是3-node的时候，我们将该节点拆分，中间元素提升至父节点，但是此时父节点是一个3-node节点，插入之后，父节点变成了4-node节点，然后继续将中间元素提升至其父节点，直至遇到一个父节点是2-node节点，然后将其变为3-node，不需要继续进行拆分。</p><p><a href="https://images0.cnblogs.com/blog/94031/201403/252249029362783.png"><img title="Insert into a 3-node whose parent is a 3-node" border="0" alt="Insert into a 3-node whose parent is a 3-node" src="https://images0.cnblogs.com/blog/94031/201403/252249047954480.png" width="456" height="787"></a></p><p> </p> ",
+            "assembleText":"节点是3-node，父节点也是3-node 当我们插入的节点是3-node的时候，我们将该节点拆分，中间元素提升至父节点，但是此时父节点是一个3-node节点，插入之后，父节点变成了4-node节点，然后继续将中间元素提升至其父节点，直至遇到一个父节点是2-node节点，然后将其变为3-node，不需要继续进行拆分。  ",
+            "assembleScratchTime":"2019-03-18 16:11:51",
+            "facetId":558964,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863077,
+            "assembleContent":"<p><strong>根节点分裂</strong></p><p>当根节点到字节点都是3-node节点的时候，这是如果我们要在字节点插入新的元素的时候，会一直查分到跟节点，在最后一步的时候，跟节点变成了一个4-node节点，这个时候，就需要将跟节点查分为两个2-node节点，树的高度加1，这个操作过程如下：</p><p><a href="https://images0.cnblogs.com/blog/94031/201403/252249052327179.png"><img title="Insert into a 3-node whose parent is a 3-node" border="0" alt="Insert into a 3-node whose parent is a 3-node" src="https://images0.cnblogs.com/blog/94031/201403/252249059365266.png" width="443" height="765"></a></p> ",
+            "assembleText":"根节点分裂 当根节点到字节点都是3-node节点的时候，这是如果我们要在字节点插入新的元素的时候，会一直查分到跟节点，在最后一步的时候，跟节点变成了一个4-node节点，这个时候，就需要将跟节点查分为两个2-node节点，树的高度加1，这个操作过程如下：",
+            "assembleScratchTime":"2019-03-18 16:12:00",
+            "facetId":558964,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863097,
+            "assembleContent":"<p>插入也是类似AVL树 <br>比较大小 按2-3树的类似查找操作，像图9-7 那样 假设我们插入的是14 <br>他比12大 因为15的这个节点里只有15这一个关键码 所以14和15 会在同一个节点中<br><br>那如果这个节点里有两个关键码怎么办呢？<br><br>例如：我们插入 55<br><br>他比48大， 所以他会进入 50 52这个节点 这样的话这个节点就会有3个关键码，这是不符合2-3树的<br><br>所以这个节点要分裂只保留最大和最小的 也就是50 55 注意这时候这是连个节点 一个节点值是50 另一个是55<br><br>52 会进行提升 去回到父节点，就是48 52比48大 所以在右边 这是50这个节点作为父节点的中间子树，55是右子树<br><br>如果父节点的关键码也是两个 这时候按照上面的规则接着提升<br><br>例如：我们还是在图9-7中插入22<br><br>这时候20 21 的结点就会变为 节点20 和节点 22 然后21提升<br><br>但是父节点 23 30 也是两个关键码，这时候就因为21 进来了 所以分解为21 30<br><br>21的左子树是20 右子树是22 30的结点左子树是24 右子树是31<br><br>23接着提升 父节点就会变为 18 23 33<br><br>接着分裂为18 33<br><br>18的左子树变还是12 右子树是21<br><br>33的右子树是48没变，33的左子树是30<br><br>提升后的23作为这个2-3树的根结点<br><br>他的左子树是18 右子树是33<br></p> ",
+            "assembleText":"插入也是类似AVL树 比较大小 按2-3树的类似查找操作，像图9-7 那样 假设我们插入的是14 他比12大 因为15的这个节点里只有15这一个关键码 所以14和15 会在同一个节点中 那如果这个节点里有两个关键码怎么办呢？ 例如：我们插入 55 他比48大， 所以他会进入 50 52这个节点 这样的话这个节点就会有3个关键码，这是不符合2-3树的 所以这个节点要分裂只保留最大和最小的 也就是50 55 注意这时候这是连个节点 一个节点值是50 另一个是55 52 会进行提升 去回到父节点，就是48 52比48大 所以在右边 这是50这个节点作为父节点的中间子树，55是右子树 如果父节点的关键码也是两个 这时候按照上面的规则接着提升 例如：我们还是在图9-7中插入22 这时候20 21 的结点就会变为 节点20 和节点 22 然后21提升 但是父节点 23 30 也是两个关键码，这时候就因为21 进来了 所以分解为21 30 21的左子树是20 右子树是22 30的结点左子树是24 右子树是31 23接着提升 父节点就会变为 18 23 33 接着分裂为18 33 18的左子树变还是12 右子树是21 33的右子树是48没变，33的左子树是30 提升后的23作为这个2-3树的根结点 他的左子树是18 右子树是33",
+            "assembleScratchTime":"2019-03-18 16:18:16",
+            "facetId":558964,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/qq_35794278/article/details/80316402",
+            "type":"text"
+        },
+        {
+            "assembleId":2863128,
+            "assembleContent":"<p>向2-结点中插入新键<br>要在2-3树中插入一个新结点，我们可以和二叉查找树一样先进行一次未命中的查找，然后把新结点挂在树的底部，但这样树无法保持完美平衡性。我们使用2-3树的主要原因在于它能够在插入后继续保持平衡。<br>如果未命中的查找结束于一个2-结点，我们只要把这个2-结点替换为一个3-结点，将要插入的键保存在其中即可。<br></p> ",
+            "assembleText":"向2-结点中插入新键 要在2-3树中插入一个新结点，我们可以和二叉查找树一样先进行一次未命中的查找，然后把新结点挂在树的底部，但这样树无法保持完美平衡性。我们使用2-3树的主要原因在于它能够在插入后继续保持平衡。 如果未命中的查找结束于一个2-结点，我们只要把这个2-结点替换为一个3-结点，将要插入的键保存在其中即可。",
+            "assembleScratchTime":"2019-03-18 16:29:47",
+            "facetId":558964,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863129,
+            "assembleContent":"<p>向一颗只含3-结点的树中插入新建<br>在考虑一般情况之前，先假设我们需要向一颗只含有3-结点的书中插入一个新键。这棵树有两个键，所以在它唯一的结点中已经没有可以插入新键的空间了。为了将新键插入，我们临时将新键存入该结点中，使之成为一个4-结点。它很自然地扩展了以前的结点并含有3个键和4条链接。创建一个4-结点很方便，因为很容易将它转换为一颗3个2-结点组成的2-3树。<br>【(A=E)】    —>   【(A=E=S)】   —>     【(A)】 <= 【(E)】 => 【(S)】<br><br></p> ",
+            "assembleText":"向一颗只含3-结点的树中插入新建 在考虑一般情况之前，先假设我们需要向一颗只含有3-结点的书中插入一个新键。这棵树有两个键，所以在它唯一的结点中已经没有可以插入新键的空间了。为了将新键插入，我们临时将新键存入该结点中，使之成为一个4-结点。它很自然地扩展了以前的结点并含有3个键和4条链接。创建一个4-结点很方便，因为很容易将它转换为一颗3个2-结点组成的2-3树。 【(A=E)】    —>   【(A=E=S)】   —>     【(A)】 <= 【(E)】 => 【(S)】",
+            "assembleScratchTime":"2019-03-18 16:29:59",
+            "facetId":558964,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863130,
+            "assembleContent":"<p>向一个父节点为2-结点的3-结点中插入新键<br>假设未命中的查找结束于一个3-结点，而它的父节点是一个2-结点。在这种情况下我们需要在维持树的完美平衡的前提下为新键腾出空间。<br>我们像之前一样构造一个临时的4-结点并将其分解，但此时我们不会为中键创建一个新结点，而是将其移动至原来的父节点中。剩下的结点分解为两个2-结点。<br></p> ",
+            "assembleText":"向一个父节点为2-结点的3-结点中插入新键 假设未命中的查找结束于一个3-结点，而它的父节点是一个2-结点。在这种情况下我们需要在维持树的完美平衡的前提下为新键腾出空间。 我们像之前一样构造一个临时的4-结点并将其分解，但此时我们不会为中键创建一个新结点，而是将其移动至原来的父节点中。剩下的结点分解为两个2-结点。",
+            "assembleScratchTime":"2019-03-18 16:30:10",
+            "facetId":558964,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863131,
+            "assembleContent":"<div>.向一个父节点为3-结点的3-结点插入新键</div><div>如果从插入结点到根节点的路径上全都是3-结点，我们的根结点最终变成一个临时的4-结点。此时我们可以按照向一颗只有一个3-结点的树中插入新键的方法处理这个问题。我们将临时的4-结点分解为两个3-结点，使树高加1。</div><p><br></p> ",
+            "assembleText":".向一个父节点为3-结点的3-结点插入新键 如果从插入结点到根节点的路径上全都是3-结点，我们的根结点最终变成一个临时的4-结点。此时我们可以按照向一颗只有一个3-结点的树中插入新键的方法处理这个问题。我们将临时的4-结点分解为两个3-结点，使树高加1。",
+            "assembleScratchTime":"2019-03-18 16:30:19",
+            "facetId":558964,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2863184,
+            "assembleContent":"<p><img src="http://yotta.xjtushilei.com:8090/1552904020829/1944686995.png" style="max-width:100%;"><br></p><p><img src="http://yotta.xjtushilei.com:8090/1552904031443/771304677.png" style="max-width:100%;"><br></p> ",
+            "assembleText":"",
+            "assembleScratchTime":"2019-03-18 18:13:52",
+            "facetId":558964,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2866025,
+            "assembleContent":"<div><div><h3>插入</h3>
+<blockquote>
+<p>由于2-3树也是属于二叉查找树中的一种,往树里面插入一个新节点时,肯定是插入到某个叶子节点上.需要分情况讨论因为有两种节点类型.</p>
+</blockquote>
+<blockquote>
+<blockquote>
+<p><strong>叶子节点是2-节点:</strong> 直接把新节点加入到2-节点生成一个新的3-节点.<br>
+</p>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/11177530-ec4faa8ed3f8049b.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/606/format/webp"></div>
+</div>
+<div>2-3_2.jpeg</div>
+</div>
+<p></p>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<p><strong>叶子节点是3-节点:</strong>当把新节点加入到3-节点会变成临时的4-节点,然后再进行分解成3个2-节点.<br>
+</p>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/11177530-b66ddec67d75397b.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/562/format/webp"></div>
+</div>
+<div>2-3_3.jpeg</div>
+</div>
+<br>
+把中间的2-节点传递给父亲节点,至于父亲节点是2-节点或者3-节点就可以进行递归处理.直接上图会比较好理解.<br>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/11177530-f784ae85ef4b7f2a.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/710/format/webp"></div>
+</div>
+<div>2-3_4.jpeg</div>
+</div>
+<p></p>
+</blockquote>
+</blockquote>
+<blockquote>
+<p>再看一张图</p>
+<br>
+<div>
+<div>
+<div></div>
+<div><img src="//upload-images.jianshu.io/upload_images/11177530-2a0fb5ec950032ff.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/500/format/webp"></div>
+</div>
+<div>2-3_5.jpeg</div></div></blockquote></div><br><br>作者：nicktming<br>链接：https://www.jianshu.com/p/09b5fc3282e8<br>来源：简书<br>简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。</div> ",
+            "assembleText":"插入 由于2-3树也是属于二叉查找树中的一种,往树里面插入一个新节点时,肯定是插入到某个叶子节点上.需要分情况讨论因为有两种节点类型. 叶子节点是2-节点: 直接把新节点加入到2-节点生成一个新的3-节点. 2-3_2.jpeg 叶子节点是3-节点:当把新节点加入到3-节点会变成临时的4-节点,然后再进行分解成3个2-节点. 2-3_3.jpeg 把中间的2-节点传递给父亲节点,至于父亲节点是2-节点或者3-节点就可以进行递归处理.直接上图会比较好理解. 2-3_4.jpeg 再看一张图 2-3_5.jpeg 作者：nicktming 链接：https://www.jianshu.com/p/09b5fc3282e8 来源：简书 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。",
+            "assembleScratchTime":"2019-03-24 23:15:52",
+            "facetId":558964,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        },
+        {
+            "assembleId":2852678,
+            "assembleContent":"<p>删除节点比插入节点麻烦一些，先来看删除底部节点，在搜索过程中就需要对节点做相应的变化，以保证搜索路径上的都是3-node或临时的4-node，在删除当前节点T时，T一定是3-node或4-node，就可以安全删除了，删除之后树的变化规则与插入一致。删除其他节点可以转化为删除底部节点，只需要将删除元素与底部节点元素交换即可。</p><p><img src="https://images2017.cnblogs.com/blog/1205485/201707/1205485-20170727170802086-623393662.png" alt=""></p> ",
+            "assembleText":"删除节点比插入节点麻烦一些，先来看删除底部节点，在搜索过程中就需要对节点做相应的变化，以保证搜索路径上的都是3-node或临时的4-node，在删除当前节点T时，T一定是3-node或4-node，就可以安全删除了，删除之后树的变化规则与插入一致。删除其他节点可以转化为删除底部节点，只需要将删除元素与底部节点元素交换即可。",
+            "assembleScratchTime":"2019-02-26 16:26:47",
+            "facetId":558965,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://www.cnblogs.com/holoyong/p/7245957.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863098,
+            "assembleContent":"<p>删除的叶子结点中包含两个关键码 删除这两个关键码其中之一 这个最简单 直接删除就行<br>要删除的结点只有一个关键码，他是这个节点的兄弟节点含有两个关键码，这时候就需要修改父节点并且从兄弟节点借用一个关键码来补充我们要删除的这个节点，同时维护2-3树的特性 <br>2.1 <br>对于这个图来说 <br><img src="https://img-blog.csdn.net/20180514222744712?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1Nzk0Mjc4/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="2-3æ çä¾å­"><br>我们删除24这个节点 这时候首先修改父节点 把父节点的23换成21 然后24不删除变为23<br><br>也就是 20 21 这个节点就分类为20 这一个节点了 21变为父节点，23替换24<br><br></p> ",
+            "assembleText":"删除的叶子结点中包含两个关键码 删除这两个关键码其中之一 这个最简单 直接删除就行 要删除的结点只有一个关键码，他是这个节点的兄弟节点含有两个关键码，这时候就需要修改父节点并且从兄弟节点借用一个关键码来补充我们要删除的这个节点，同时维护2-3树的特性 2.1 对于这个图来说 我们删除24这个节点 这时候首先修改父节点 把父节点的23换成21 然后24不删除变为23 也就是 20 21 这个节点就分类为20 这一个节点了 21变为父节点，23替换24",
+            "assembleScratchTime":"2019-03-18 16:18:53",
+            "facetId":558965,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/qq_35794278/article/details/80316402",
+            "type":"text"
+        },
+        {
+            "assembleId":2863099,
+            "assembleContent":"<p><strong>如果删除的是10呢？按照下面这个图的思想就欧克了 也就是把兄弟节点由2节点变为3节点</strong></p><p>然后按上面的方法删除 <br><img src="https://img-blog.csdn.net/20170521221257705" alt="这里写图片描述" title=""> <br>那是怎么找到 7 8是在一起的呢 就是对这个树进行中序遍历 然后把7的后继节点添加进去</p> ",
+            "assembleText":"如果删除的是10呢？按照下面这个图的思想就欧克了 也就是把兄弟节点由2节点变为3节点 然后按上面的方法删除    那是怎么找到 7 8是在一起的呢 就是对这个树进行中序遍历 然后把7的后继节点添加进去",
+            "assembleScratchTime":"2019-03-18 16:19:11",
+            "facetId":558965,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/qq_35794278/article/details/80316402",
+            "type":"text"
+        },
+        {
+            "assembleId":2863100,
+            "assembleContent":"<p><strong>那我们又会有新疑问 如果3节点的叶子结点进行删除会怎么搞呢？</strong> <br><img src="https://img-blog.csdn.net/20170521221316711" alt="这里写图片描述" title=""></p><p>很清楚 拆分这个3节点 也就是图中的 12 14 这个节点 保留14</p><p>12和中间节点合并 删除左子树这个节点</p><p>假如删除右子树或者中间子树 自己看吧</p> ",
+            "assembleText":"那我们又会有新疑问 如果3节点的叶子结点进行删除会怎么搞呢？  很清楚 拆分这个3节点 也就是图中的 12 14 这个节点 保留14 12和中间节点合并 删除左子树这个节点 假如删除右子树或者中间子树 自己看吧",
+            "assembleScratchTime":"2019-03-18 16:19:22",
+            "facetId":558965,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/qq_35794278/article/details/80316402",
+            "type":"text"
+        },
+        {
+            "assembleId":2863101,
+            "assembleContent":"<p><strong> 如果是一颗满二叉树呢？</strong> <br>那么就减少一下高度 将2-3树层树减少，并将兄弟节点合并到双亲节点中，同时将双亲节点的所有兄弟节点合并到双亲节点的双亲节点中，如果生成了-4节点，再分解4-节点即可 <br><img src="https://img-blog.csdn.net/20170521221330206" alt="这里写图片描述" title="">  <br></p> ",
+            "assembleText":" 如果是一颗满二叉树呢？  那么就减少一下高度 将2-3树层树减少，并将兄弟节点合并到双亲节点中，同时将双亲节点的所有兄弟节点合并到双亲节点的双亲节点中，如果生成了-4节点，再分解4-节点即可    ",
+            "assembleScratchTime":"2019-03-18 16:19:30",
+            "facetId":558965,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/qq_35794278/article/details/80316402",
+            "type":"text"
+        },
+        {
+            "assembleId":2863102,
+            "assembleContent":"<ol><li>从内部节点删除一个数据</li></ol><p>就是把这个树用中序遍历方式进行遍历 然后用后继节点的key 代替要删除这个节点的Key 也就是关键码</p><p>然后相当于删除了 这个后继节点 然后按照相应的方法 删除这个后继节点</p><p><img src="https://img-blog.csdn.net/20170521221131554" alt="这里写图片描述" title=""></p> ",
+            "assembleText":"从内部节点删除一个数据 就是把这个树用中序遍历方式进行遍历 然后用后继节点的key 代替要删除这个节点的Key 也就是关键码 然后相当于删除了 这个后继节点 然后按照相应的方法 删除这个后继节点",
+            "assembleScratchTime":"2019-03-18 16:19:43",
+            "facetId":558965,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/qq_35794278/article/details/80316402",
+            "type":"text"
+        },
+        {
+            "assembleId":2863185,
+            "assembleContent":"<p><img src="http://yotta.xjtushilei.com:8090/1552904063897/254978104.png" style="max-width:100%;"><br></p> ",
+            "assembleText":"",
+            "assembleScratchTime":"2019-03-18 18:14:24",
+            "facetId":558965,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2863186,
+            "assembleContent":"<p><img src="http://yotta.xjtushilei.com:8090/1552904112598/616015892.png" style="max-width:100%;"><img src="http://yotta.xjtushilei.com:8090/1552904125474/2124200860.png" style="max-width: 100%;"><br></p> ",
+            "assembleText":"",
+            "assembleScratchTime":"2019-03-18 18:15:31",
+            "facetId":558965,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2863187,
+            "assembleContent":"<p><img src="http://yotta.xjtushilei.com:8090/1552904198712/1005403293.png" style="max-width:100%;"><img src="http://yotta.xjtushilei.com:8090/1552904202173/2004896691.png" style="max-width: 100%;"><br></p> ",
+            "assembleText":"",
+            "assembleScratchTime":"2019-03-18 18:16:43",
+            "facetId":558965,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2852665,
+            "assembleContent":"<div label-module="para"><div label-module="para"><pre><code><p>retrieveItem(in ttTree: TwoThreeTree,in searchKey :keyType,<br>out treeItem:TTreeItemType):boollean<br>//retrieve into treeItem from a noneempty 2-3 tree ttTree<br>//the item whose search key equals searchkey,the operation fails if no<br>//such item exists ,the function returns true if the item is found ,<br>//false otherwise<br>{<br>if(searchKey is in ttTree's root node r)<br>{<br>treeItem =the data portion of r<br>return true;<br>}<br>else if(r is a leaf)<br>{<br>return false;<br>}<br>else if(r has two data items)<br>{<br>if(searchKey<smaller search key of r)<br>return retrieve(r's left subtree,searchkey,treeitem)<br>else if(searchKey<larger search key of r)<br>return retrieve(r's middle subtree ,searchKey,<br>treeItem);<br>else<br>return retrieve(r's right subtree,searchKey,<br>treeItem)<br>}<br>else<br>{<br>if(searchKey<r's search key)<br>return retrieve(r's left subtree,searchKey,treeItem);<br>else<br>return retrieve(r's middle subtree,searchKey,treeItem);<br>}<br>}</p></code></pre></div></div> ",
+            "assembleText":"retrieveItem(in ttTree: TwoThreeTree,in searchKey :keyType, out treeItem:TTreeItemType):boollean //retrieve into treeItem from a noneempty 2-3 tree ttTree //the item whose search key equals searchkey,the operation fails if no //such item exists ,the function returns true if the item is found , //false otherwise { if(searchKey is in ttTree's root node r) { treeItem =the data portion of r return true; } else if(r is a leaf) { return false; } else if(r has two data items) { if(searchKey<smaller search key of r) return retrieve(r's left subtree,searchkey,treeitem) else if(searchKey<larger search key of r) return retrieve(r's middle subtree ,searchKey, treeItem); else return retrieve(r's right subtree,searchKey, treeItem) } else { if(searchKey<r's search key) return retrieve(r's left subtree,searchKey,treeItem); else return retrieve(r's middle subtree,searchKey,treeItem); } }",
+            "assembleScratchTime":"2019-02-26 16:21:03",
+            "facetId":558966,
+            "sourceId":11,
+            "domainId":413,
+            "url":"https://baike.baidu.com/item/2-3%E6%A0%91/3484656",
+            "type":"text"
+        },
+        {
+            "assembleId":2852670,
+            "assembleContent":"<p>2-3树中的节点排序与二叉树中的排序相似，允许在2-3树中有效地查找某一项。实际上，有下面的伪码可以看到，2-3树的检索操作非常类似与二叉树的检索操作。  <br></p> ",
+            "assembleText":"2-3树中的节点排序与二叉树中的排序相似，允许在2-3树中有效地查找某一项。实际上，有下面的伪码可以看到，2-3树的检索操作非常类似与二叉树的检索操作。  ",
+            "assembleScratchTime":"2019-02-26 16:22:13",
+            "facetId":558966,
+            "sourceId":11,
+            "domainId":413,
+            "url":"https://baike.baidu.com/item/2-3%E6%A0%91/3484656",
+            "type":"text"
+        },
+        {
+            "assembleId":2863034,
+            "assembleContent":"<pre><code>2-3树中的节点排序与二叉树中的排序相似，允许在2-3树中有效地查找某一项。实际上，有下面的伪码可以看到，2-3树的检索操作非常类似与二叉树的检索操作。<br><br>代码如下：     retrieveItem(in ttTree: TwoThreeTree,in searchKey :keyType,<br><br>out treeItem:TTreeItemType):boollean<br><br>//retrieve into treeItem from a noneempty 2-3 tree ttTree<br><br>//the item whose search key equals searchkey,the operation fails if no<br><br>//such item exists ,the function returns true if the item is found ,<br><br>//false otherwise<br><br>{<br><br>if(searchKey is in ttTree's root node r)<br><br>{<br><br>treeItem =the data portion of r<br><br>return true;<br><br>}<br><br>else if(r is a leaf)<br><br>{<br><br>return false;<br><br>}<br><br>else if(r has two data items)<br><br>{<br><br>if(searchKey<smaller search key of r)<br><br>return retrieve(r's left subtree,searchkey,treeitem)<br><br>else if(searchKey<larger search key of r)<br><br>return retrieve(r's middle subtree ,searchKey,<br><br>treeItem);<br><br>else<br><br>return retrieve(r's right subtree,searchKey,<br><br>treeItem)<br><br>}<br><br>else<br><br>{<br><br>if(searchKey<r's search key)<br><br>return retrieve(r's left subtree,searchKey,treeItem);<br><br>else<br><br>return retrieve(r's middle subtree,searchKey,treeItem);<br><br>}<br><br>}</code></pre><p><br></p> ",
+            "assembleText":"2-3树中的节点排序与二叉树中的排序相似，允许在2-3树中有效地查找某一项。实际上，有下面的伪码可以看到，2-3树的检索操作非常类似与二叉树的检索操作。 代码如下： 　　retrieveItem(in ttTree: TwoThreeTree,in searchKey :keyType, out treeItem:TTreeItemType):boollean //retrieve into treeItem from a noneempty 2-3 tree ttTree //the item whose search key equals searchkey,the operation fails if no //such item exists ,the function returns true if the item is found , //false otherwise { if(searchKey is in ttTree's root node r) { treeItem =the data portion of r return true; } else if(r is a leaf) { return false; } else if(r has two data items) { if(searchKey<smaller search key of r) return retrieve(r's left subtree,searchkey,treeitem) else if(searchKey<larger search key of r) return retrieve(r's middle subtree ,searchKey, treeItem); else return retrieve(r's right subtree,searchKey, treeItem) } else { if(searchKey<r's search key) return retrieve(r's left subtree,searchKey,treeItem); else return retrieve(r's middle subtree,searchKey,treeItem); } }",
+            "assembleScratchTime":"2019-03-18 15:56:39",
+            "facetId":558966,
+            "sourceId":12,
+            "domainId":413,
+            "url":"https://www.sogou.com/web?query=2-3%E6%A0%91&ie=utf8&_ast=1552895488&_asf=null&w=01029901&cid=&cid=&s_from=result_up&sut=2577&sst0=1552895503986&lkt=2%2C1552895502302%2C1552895502605&sugsuv=00FA17846F14E20E5AFF96C7ADF09178&sugtime=1552895503986",
+            "type":"text"
+        },
+        {
+            "assembleId":2863046,
+            "assembleContent":"<p>要判断一个键是否在树中，我们先将它和根结点中的键比较。如果它和其中的任何一个相等，查找命中。否则我们就根据比较的结果找到指向相应区间的链接，并在其指向的子树中递归地继续查找。如果这是个空链接，查找未命中。  <br></p> ",
+            "assembleText":"要判断一个键是否在树中，我们先将它和根结点中的键比较。如果它和其中的任何一个相等，查找命中。否则我们就根据比较的结果找到指向相应区间的链接，并在其指向的子树中递归地继续查找。如果这是个空链接，查找未命中。  ",
+            "assembleScratchTime":"2019-03-18 16:03:58",
+            "facetId":558966,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/fei33423/article/details/79132930",
+            "type":"text"
+        },
+        {
+            "assembleId":2863180,
+            "assembleContent":"<p><img src="http://yotta.xjtushilei.com:8090/1552903941100/252554328.png" style="max-width:100%;"><br></p> ",
+            "assembleText":"",
+            "assembleScratchTime":"2019-03-18 18:12:22",
+            "facetId":558966,
+            "sourceId":1,
+            "domainId":413,
+            "url":"https://zh.wikipedia.org/wiki/2-3%E6%A0%91",
+            "type":"text"
+        },
+        {
+            "assembleId":2863072,
+            "assembleContent":"<p>在进行2-3树的平衡之前，我们先假设已经处于平衡状态，我们先看基本的查找操作。</p><p>2-3树的查找和二叉查找树类似，要确定一个树是否属于2-3树，我们首先和其跟节点进行比较，如果相等，则查找成功；否则根据比较的条件，在其左中右子树中递归查找，如果找到的节点为空，则未找到，否则返回。查找过程如下图：</p><p><a href="https://images0.cnblogs.com/blog/94031/201403/252248494047648.png"><img title="search in 2-3 tree" border="0" alt="search in 2-3 tree" src="https://images0.cnblogs.com/blog/94031/201403/252248520921162.png" width="745" height="475" style="max-width:50%;"></a></p><p><br></p> ",
+            "assembleText":"在进行2-3树的平衡之前，我们先假设已经处于平衡状态，我们先看基本的查找操作。 2-3树的查找和二叉查找树类似，要确定一个树是否属于2-3树，我们首先和其跟节点进行比较，如果相等，则查找成功；否则根据比较的条件，在其左中右子树中递归查找，如果找到的节点为空，则未找到，否则返回。查找过程如下图：",
+            "assembleScratchTime":"2019-03-18 16:11:00",
+            "facetId":558966,
+            "sourceId":13,
+            "domainId":413,
+            "url":"http://www.cnblogs.com/yangecnu/p/Introduce-2-3-Search-Tree.html",
+            "type":"text"
+        },
+        {
+            "assembleId":2863095,
+            "assembleContent":"<p>同二叉树排序树的查找算法，要查找的值与节点的第一个关键码对比 小于这个节点的第一个关键码则进入左子树进行查找，大于第一个关键码切小于第二个关键码（如果有）则进入中间的子树，大于第二个关键码则进入右子树</p><p>然后递归呗 对每个节点都运行上面的算法</p> ",
+            "assembleText":"同二叉树排序树的查找算法，要查找的值与节点的第一个关键码对比 小于这个节点的第一个关键码则进入左子树进行查找，大于第一个关键码切小于第二个关键码（如果有）则进入中间的子树，大于第二个关键码则进入右子树 然后递归呗 对每个节点都运行上面的算法",
+            "assembleScratchTime":"2019-03-18 16:17:23",
+            "facetId":558966,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/qq_35794278/article/details/80316402",
+            "type":"text"
+        },
+        {
+            "assembleId":2863127,
+            "assembleContent":"<div>将二叉查找树的查找一般化我们就能得到2-3树的查找算法。</div><div>要判断一个键是否在树中，我们先将他和根节点中的键比较。如果它和其中任意一个相等，查找命中；否则我们根据比较的结果找到指向相应区间的链接，并在其指向的子树中递归地查找。如果这是个空链接，查找未命中。</div><p><br></p> ",
+            "assembleText":"将二叉查找树的查找一般化我们就能得到2-3树的查找算法。 要判断一个键是否在树中，我们先将他和根节点中的键比较。如果它和其中任意一个相等，查找命中；否则我们根据比较的结果找到指向相应区间的链接，并在其指向的子树中递归地查找。如果这是个空链接，查找未命中。",
+            "assembleScratchTime":"2019-03-18 16:29:31",
+            "facetId":558966,
+            "sourceId":4,
+            "domainId":413,
+            "url":"https://blog.csdn.net/yang_yulei/article/details/26066409 ",
+            "type":"text"
+        }
+    ]
+}
