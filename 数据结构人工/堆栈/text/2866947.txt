@@ -1,0 +1,1 @@
+删除栈 //栈的删除 void destory(struct stack *s) { s->top = -1; memset(s->sta, 0, sizeof(s->sta)); } int main() { struct stack S; init_stack(&S); int i , ret ; for(i=0; i<SIZE; i++){ ret = in_stack(&S, i+10); if(ret > 0){ printf(

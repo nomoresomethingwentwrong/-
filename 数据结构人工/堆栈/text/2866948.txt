@@ -1,0 +1,1 @@
+入栈 #include <stdio.h> #include <stdlib.h> #include <string.h> //栈里元素个数 #define SIZE 10  //栈的声明 struct stack{  int sta[SIZE];  int top; }; //栈的初始化 void init_stack(struct stack* s) {  memset(s->sta, 0, sizeof(s->sta));  s->top = -1; } //压栈 int in_stack(struct stack* s, int data) {  if(s->top == SIZE-1){  printf(

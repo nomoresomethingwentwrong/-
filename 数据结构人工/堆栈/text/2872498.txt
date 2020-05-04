@@ -1,0 +1,1 @@
+In many implementations, a stack has more operations than 

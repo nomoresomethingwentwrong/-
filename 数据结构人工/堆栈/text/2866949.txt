@@ -1,0 +1,1 @@
+出栈 //出栈 int out_stack(struct stack* s) { int tmp; if(s->top < 0 ){ printf(
