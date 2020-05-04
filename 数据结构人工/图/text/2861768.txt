@@ -1,0 +1,1 @@
+A simple undirected graph with three vertices and three edges. Each vertex has degree two, so this is also a regular graph.

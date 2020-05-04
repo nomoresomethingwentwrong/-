@@ -1,0 +1,1 @@
+阶（Order）：图 {\displaystyle G}中顶集 {\displaystyle V}的大小称作图 {\displaystyle G}的阶。 子图（Sub-Graph）：图 {\displaystyle G'}称作图 {\displaystyle G}的子图如果 {\displaystyle V(G')\subseteq V(G)}以及 {\displaystyle E(G')\subseteq E(G)}。 生成子图（Spanning Sub-Graph）：指满足条件 {\displaystyle V(G')=V(G)}的 {\displaystyle G}的子图 {\displaystyle G'}。

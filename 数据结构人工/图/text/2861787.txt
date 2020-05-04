@@ -1,0 +1,1 @@
+Complete graph A complete graph with 5 vertices. Each vertex has an edge to every other vertex. A complete graph is a graph in which each pair of vertices is joined by an edge. A complete graph contains all possible edges.
